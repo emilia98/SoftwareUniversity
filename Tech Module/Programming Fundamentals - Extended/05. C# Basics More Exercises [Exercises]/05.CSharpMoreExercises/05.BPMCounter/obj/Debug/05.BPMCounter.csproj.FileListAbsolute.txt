@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.pdb

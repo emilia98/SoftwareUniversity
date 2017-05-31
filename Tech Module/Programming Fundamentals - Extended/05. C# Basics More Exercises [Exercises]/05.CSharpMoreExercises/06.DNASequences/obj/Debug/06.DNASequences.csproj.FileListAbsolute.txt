@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\06.DNASequences\bin\Debug\06.DNASequences.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\06.DNASequences\bin\Debug\06.DNASequences.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\06.DNASequences\obj\Debug\06.DNASequences.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\06.DNASequences\obj\Debug\06.DNASequences.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\06.DNASequences\obj\Debug\06.DNASequences.pdb

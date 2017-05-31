@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\04.MonthPrinter\bin\Debug\04.MonthPrinter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\04.MonthPrinter\bin\Debug\04.MonthPrinter.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\04.MonthPrinter\obj\Debug\04.MonthPrinter.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\04.MonthPrinter\obj\Debug\04.MonthPrinter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\04.MonthPrinter\obj\Debug\04.MonthPrinter.pdb

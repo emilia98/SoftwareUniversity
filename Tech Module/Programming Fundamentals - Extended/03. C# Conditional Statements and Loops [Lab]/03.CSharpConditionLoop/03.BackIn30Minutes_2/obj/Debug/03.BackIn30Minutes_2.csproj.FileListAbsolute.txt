@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\03.BackIn30Minutes_2\bin\Debug\03.BackIn30Minutes_2.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\03.BackIn30Minutes_2\bin\Debug\03.BackIn30Minutes_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\03.BackIn30Minutes_2\bin\Debug\03.BackIn30Minutes_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\03.BackIn30Minutes_2\obj\Debug\03.BackIn30Minutes_2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\03.BackIn30Minutes_2\obj\Debug\03.BackIn30Minutes_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\03.BackIn30Minutes_2\obj\Debug\03.BackIn30Minutes_2.pdb

@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\02.VaporStore\bin\Debug\02.VaporStore.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\02.VaporStore\bin\Debug\02.VaporStore.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\02.VaporStore\bin\Debug\02.VaporStore.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\02.VaporStore\obj\Debug\02.VaporStore.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\02.VaporStore\obj\Debug\02.VaporStore.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\02.VaporStore\obj\Debug\02.VaporStore.pdb
