@@ -1,0 +1,9 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\07. GUI - Sum Numbers\SumNumbers\bin\Debug\SumNumbers.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\07. GUI - Sum Numbers\SumNumbers\bin\Debug\SumNumbers.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\07. GUI - Sum Numbers\SumNumbers\bin\Debug\SumNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\07. GUI - Sum Numbers\SumNumbers\obj\Debug\SumNumbers.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\07. GUI - Sum Numbers\SumNumbers\obj\Debug\SumNumbers.Form1.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\07. GUI - Sum Numbers\SumNumbers\obj\Debug\SumNumbers.Properties.Resources.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\07. GUI - Sum Numbers\SumNumbers\obj\Debug\SumNumbers.csproj.GenerateResource.Cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\07. GUI - Sum Numbers\SumNumbers\obj\Debug\SumNumbers.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\07. GUI - Sum Numbers\SumNumbers\obj\Debug\SumNumbers.pdb

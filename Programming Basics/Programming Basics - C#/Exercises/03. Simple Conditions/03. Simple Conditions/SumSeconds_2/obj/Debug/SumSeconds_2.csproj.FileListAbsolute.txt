@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\SumSeconds_2\bin\Debug\SumSeconds_2.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\SumSeconds_2\bin\Debug\SumSeconds_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\SumSeconds_2\bin\Debug\SumSeconds_2.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\SumSeconds_2\obj\Debug\SumSeconds_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\SumSeconds_2\obj\Debug\SumSeconds_2.pdb

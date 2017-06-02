@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\OddEvenSum\bin\Debug\OddEvenSum.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\OddEvenSum\bin\Debug\OddEvenSum.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\OddEvenSum\obj\Debug\OddEvenSum.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\OddEvenSum\obj\Debug\OddEvenSum.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\OddEvenSum\obj\Debug\OddEvenSum.pdb

@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PowersOf2_2\bin\Debug\PowersOf2_2.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PowersOf2_2\bin\Debug\PowersOf2_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PowersOf2_2\bin\Debug\PowersOf2_2.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PowersOf2_2\obj\Debug\PowersOf2_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PowersOf2_2\obj\Debug\PowersOf2_2.pdb

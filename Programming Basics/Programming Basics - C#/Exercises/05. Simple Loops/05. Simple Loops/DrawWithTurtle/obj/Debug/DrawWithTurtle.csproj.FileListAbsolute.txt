@@ -1,0 +1,10 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\bin\Debug\DrawWithTurtle.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\bin\Debug\DrawWithTurtle.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\bin\Debug\DrawWithTurtle.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\bin\Debug\Nakov.TurtleGraphics.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\obj\Debug\DrawWithTurtle.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\obj\Debug\DrawWithTurtle.FormTurtleGraphics.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\obj\Debug\DrawWithTurtle.Properties.Resources.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\obj\Debug\DrawWithTurtle.csproj.GenerateResource.Cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\obj\Debug\DrawWithTurtle.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DrawWithTurtle\obj\Debug\DrawWithTurtle.pdb

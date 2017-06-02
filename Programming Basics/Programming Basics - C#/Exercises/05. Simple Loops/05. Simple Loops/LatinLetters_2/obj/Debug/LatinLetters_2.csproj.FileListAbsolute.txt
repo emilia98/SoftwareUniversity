@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\LatinLetters_2\bin\Debug\LatinLetters_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\LatinLetters_2\bin\Debug\LatinLetters_2.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\LatinLetters_2\obj\Debug\LatinLetters_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\LatinLetters_2\obj\Debug\LatinLetters_2.pdb

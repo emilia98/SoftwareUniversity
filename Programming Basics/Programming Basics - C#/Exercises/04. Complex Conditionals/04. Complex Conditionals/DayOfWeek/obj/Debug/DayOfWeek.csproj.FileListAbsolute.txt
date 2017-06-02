@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\DayOfWeek\obj\Debug\DayOfWeek.pdb

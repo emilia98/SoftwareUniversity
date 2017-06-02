@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\10. Rectangle With Stars\bin\Debug\_10.Rectangle_With_Stars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\10. Rectangle With Stars\bin\Debug\_10.Rectangle_With_Stars.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\10. Rectangle With Stars\obj\Debug\10. Rectangle With Stars.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\10. Rectangle With Stars\obj\Debug\_10.Rectangle_With_Stars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\10. Rectangle With Stars\obj\Debug\_10.Rectangle_With_Stars.pdb

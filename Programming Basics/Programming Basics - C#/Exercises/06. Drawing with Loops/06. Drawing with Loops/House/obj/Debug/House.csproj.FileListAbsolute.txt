@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\House\bin\Debug\House.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\House\bin\Debug\House.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\House\obj\Debug\House.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\House\obj\Debug\House.pdb

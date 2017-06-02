@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\TradeComissions\obj\Debug\TradeComissions.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\TradeComissions\bin\Debug\TradeComissions.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\TradeComissions\bin\Debug\TradeComissions.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\TradeComissions\obj\Debug\TradeComissions.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\TradeComissions\obj\Debug\TradeComissions.pdb

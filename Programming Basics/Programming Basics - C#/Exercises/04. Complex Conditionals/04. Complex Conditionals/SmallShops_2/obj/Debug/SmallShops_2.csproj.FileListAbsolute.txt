@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\SmallShops_2\bin\Debug\SmallShops_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\SmallShops_2\bin\Debug\SmallShops_2.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\SmallShops_2\obj\Debug\SmallShops_2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\SmallShops_2\obj\Debug\SmallShops_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\SmallShops_2\obj\Debug\SmallShops_2.pdb

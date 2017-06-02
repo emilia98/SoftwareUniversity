@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CurrencyConverter2\bin\Debug\CurrencyConverter2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CurrencyConverter2\bin\Debug\CurrencyConverter2.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CurrencyConverter2\obj\Debug\CurrencyConverter2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CurrencyConverter2\obj\Debug\CurrencyConverter2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CurrencyConverter2\obj\Debug\CurrencyConverter2.pdb

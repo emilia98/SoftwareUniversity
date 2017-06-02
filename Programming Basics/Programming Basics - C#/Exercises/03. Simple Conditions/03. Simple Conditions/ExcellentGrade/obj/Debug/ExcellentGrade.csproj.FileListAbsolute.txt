@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentGrade\bin\Debug\ExcellentGrade.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentGrade\bin\Debug\ExcellentGrade.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentGrade\obj\Debug\ExcellentGrade.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentGrade\obj\Debug\ExcellentGrade.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentGrade\obj\Debug\ExcellentGrade.pdb

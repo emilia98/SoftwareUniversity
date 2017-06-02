@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\20 Nov 2016 - Eve\5. Rocket\bin\Debug\_5.Rocket.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\20 Nov 2016 - Eve\5. Rocket\bin\Debug\_5.Rocket.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\20 Nov 2016 - Eve\5. Rocket\obj\Debug\5. Rocket.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\20 Nov 2016 - Eve\5. Rocket\obj\Debug\_5.Rocket.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\20 Nov 2016 - Eve\5. Rocket\obj\Debug\_5.Rocket.pdb

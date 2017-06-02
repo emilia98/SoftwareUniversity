@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\SquareFrame\bin\Debug\SquareFrame.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\SquareFrame\bin\Debug\SquareFrame.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\SquareFrame\bin\Debug\SquareFrame.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\SquareFrame\obj\Debug\SquareFrame.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\SquareFrame\obj\Debug\SquareFrame.pdb

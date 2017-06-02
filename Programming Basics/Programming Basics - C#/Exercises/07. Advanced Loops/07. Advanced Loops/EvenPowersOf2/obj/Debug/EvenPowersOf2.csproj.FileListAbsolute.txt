@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\EvenPowersOf2\bin\Debug\EvenPowersOf2.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\EvenPowersOf2\obj\Debug\EvenPowersOf2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\EvenPowersOf2\obj\Debug\EvenPowersOf2.pdb

@@ -1,0 +1,9 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\Currency-Converter\bin\Debug\Currency-Converter.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\Currency-Converter\bin\Debug\Currency-Converter.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\Currency-Converter\bin\Debug\Currency-Converter.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\Currency-Converter\obj\Debug\Currency-Converter.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\Currency-Converter\obj\Debug\Currency_Converter.FormConverter.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\Currency-Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\Currency-Converter\obj\Debug\Currency-Converter.csproj.GenerateResource.Cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\Currency-Converter\obj\Debug\Currency-Converter.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\Currency-Converter\obj\Debug\Currency-Converter.pdb

@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace SumDigits
+{
+    class SumDigits
+    {
+        static void Main()
+        {
+            int number = int.Parse(Console.ReadLine());
+            int digit;
+            int sum = 0;
+
+            while(number != 0)
+            {
+                digit = number % 10;
+                sum += digit;
+                number /= 10;
+            }
+            Console.WriteLine(sum);
+        }
+    }
+}

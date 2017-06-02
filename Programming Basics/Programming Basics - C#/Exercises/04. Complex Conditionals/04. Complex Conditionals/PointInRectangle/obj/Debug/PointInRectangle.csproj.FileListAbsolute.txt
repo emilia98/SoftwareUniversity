@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointInRectangle\bin\Debug\PointInRectangle.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointInRectangle\bin\Debug\PointInRectangle.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointInRectangle\obj\Debug\PointInRectangle.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointInRectangle\obj\Debug\PointInRectangle.pdb

@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Stop\bin\Debug\Stop.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Stop\bin\Debug\Stop.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Stop\obj\Debug\Stop.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Stop\obj\Debug\Stop.pdb

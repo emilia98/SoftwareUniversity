@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

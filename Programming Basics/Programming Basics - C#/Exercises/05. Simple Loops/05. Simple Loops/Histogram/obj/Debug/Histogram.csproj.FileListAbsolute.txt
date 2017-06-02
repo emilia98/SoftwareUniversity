@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Histogram\bin\Debug\Histogram.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Histogram\bin\Debug\Histogram.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Histogram\obj\Debug\Histogram.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Histogram\obj\Debug\Histogram.pdb

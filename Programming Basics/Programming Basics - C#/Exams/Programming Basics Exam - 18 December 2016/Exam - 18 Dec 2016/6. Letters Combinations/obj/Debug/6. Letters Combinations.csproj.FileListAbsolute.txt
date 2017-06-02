@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Exam - 18 Dec 2016\6. Letters Combinations\bin\Debug\_6.Letters_Combinations.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Exam - 18 Dec 2016\6. Letters Combinations\bin\Debug\_6.Letters_Combinations.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Exam - 18 Dec 2016\6. Letters Combinations\obj\Debug\_6.Letters_Combinations.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Exam - 18 Dec 2016\6. Letters Combinations\obj\Debug\_6.Letters_Combinations.pdb

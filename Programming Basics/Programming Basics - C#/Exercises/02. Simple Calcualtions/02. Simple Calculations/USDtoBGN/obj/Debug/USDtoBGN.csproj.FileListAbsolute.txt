@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\USDtoBGN\bin\Debug\USDtoBGN.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\USDtoBGN\bin\Debug\USDtoBGN.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\USDtoBGN\obj\Debug\USDtoBGN.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\USDtoBGN\obj\Debug\USDtoBGN.pdb

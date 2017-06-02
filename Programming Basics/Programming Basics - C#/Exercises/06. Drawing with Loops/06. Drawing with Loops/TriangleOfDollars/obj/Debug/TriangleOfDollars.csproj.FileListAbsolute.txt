@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

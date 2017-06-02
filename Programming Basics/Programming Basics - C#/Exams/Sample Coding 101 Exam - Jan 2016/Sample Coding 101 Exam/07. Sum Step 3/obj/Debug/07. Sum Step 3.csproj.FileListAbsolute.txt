@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\07. Sum Step 3\bin\Debug\_07.Sum_Step_3.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\07. Sum Step 3\bin\Debug\_07.Sum_Step_3.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\07. Sum Step 3\obj\Debug\07. Sum Step 3.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\07. Sum Step 3\obj\Debug\_07.Sum_Step_3.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\07. Sum Step 3\obj\Debug\_07.Sum_Step_3.pdb

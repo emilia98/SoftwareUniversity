@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Odd-EvenPosition\bin\Debug\Odd-EvenPosition.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Odd-EvenPosition\bin\Debug\Odd-EvenPosition.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Odd-EvenPosition\obj\Debug\Odd-EvenPosition.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Odd-EvenPosition\obj\Debug\Odd-EvenPosition.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Odd-EvenPosition\obj\Debug\Odd-EvenPosition.pdb

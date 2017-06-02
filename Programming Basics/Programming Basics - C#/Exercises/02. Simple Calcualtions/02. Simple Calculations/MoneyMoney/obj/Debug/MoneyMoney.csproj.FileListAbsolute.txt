@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\MoneyMoney\bin\Debug\MoneyMoney.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\MoneyMoney\bin\Debug\MoneyMoney.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\MoneyMoney\bin\Debug\MoneyMoney.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\MoneyMoney\obj\Debug\MoneyMoney.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\MoneyMoney\obj\Debug\MoneyMoney.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\MoneyMoney\obj\Debug\MoneyMoney.pdb

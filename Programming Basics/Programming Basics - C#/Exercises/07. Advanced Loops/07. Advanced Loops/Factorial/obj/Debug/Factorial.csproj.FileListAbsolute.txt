@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\Factorial\bin\Debug\Factorial.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\Factorial\bin\Debug\Factorial.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\Factorial\bin\Debug\Factorial.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\Factorial\obj\Debug\Factorial.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\Factorial\obj\Debug\Factorial.pdb

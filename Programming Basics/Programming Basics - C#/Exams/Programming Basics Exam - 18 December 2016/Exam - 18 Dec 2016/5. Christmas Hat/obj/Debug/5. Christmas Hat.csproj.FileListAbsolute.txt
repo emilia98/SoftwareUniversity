@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Exam - 18 Dec 2016\5. Christmas Hat\bin\Debug\_5.Christmas_Hat.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Exam - 18 Dec 2016\5. Christmas Hat\bin\Debug\_5.Christmas_Hat.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Exam - 18 Dec 2016\5. Christmas Hat\obj\Debug\5. Christmas Hat.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Exam - 18 Dec 2016\5. Christmas Hat\obj\Debug\_5.Christmas_Hat.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Exam - 18 Dec 2016\5. Christmas Hat\obj\Debug\_5.Christmas_Hat.pdb

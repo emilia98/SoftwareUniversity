@@ -1,0 +1,9 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointAndRectangle\bin\Debug\PointAndRectangle.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointAndRectangle\bin\Debug\PointAndRectangle.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointAndRectangle\bin\Debug\PointAndRectangle.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointAndRectangle\obj\Debug\PointAndRectangle.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointAndRectangle\obj\Debug\PointAndRectangle.FormPointAndRectangle.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointAndRectangle\obj\Debug\PointAndRectangle.Properties.Resources.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointAndRectangle\obj\Debug\PointAndRectangle.csproj.GenerateResource.Cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointAndRectangle\obj\Debug\PointAndRectangle.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\PointAndRectangle\obj\Debug\PointAndRectangle.pdb

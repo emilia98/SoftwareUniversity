@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\05. Area of a rectangle\AreaOfaRectangle\bin\Debug\AreaOfaRectangle.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\05. Area of a rectangle\AreaOfaRectangle\bin\Debug\AreaOfaRectangle.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\05. Area of a rectangle\AreaOfaRectangle\bin\Debug\AreaOfaRectangle.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\05. Area of a rectangle\AreaOfaRectangle\obj\Debug\AreaOfaRectangle.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\05. Area of a rectangle\AreaOfaRectangle\obj\Debug\AreaOfaRectangle.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\05. Area of a rectangle\AreaOfaRectangle\obj\Debug\AreaOfaRectangle.pdb

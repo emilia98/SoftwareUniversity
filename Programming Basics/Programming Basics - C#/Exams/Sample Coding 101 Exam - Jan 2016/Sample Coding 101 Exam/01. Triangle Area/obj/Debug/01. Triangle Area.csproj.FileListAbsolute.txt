@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\01. Triangle Area\bin\Debug\_01.Triangle_Area.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\01. Triangle Area\bin\Debug\_01.Triangle_Area.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\01. Triangle Area\obj\Debug\_01.Triangle_Area.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\01. Triangle Area\obj\Debug\_01.Triangle_Area.pdb

@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\DailyEarnings\bin\Debug\DailyEarnings.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\DailyEarnings\bin\Debug\DailyEarnings.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\DailyEarnings\bin\Debug\DailyEarnings.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\DailyEarnings\obj\Debug\DailyEarnings.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\DailyEarnings\obj\Debug\DailyEarnings.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\DailyEarnings\obj\Debug\DailyEarnings.pdb

@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\1000DaysOnEarth\bin\Debug\1000DaysOnEarth.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\1000DaysOnEarth\bin\Debug\1000DaysOnEarth.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\1000DaysOnEarth\bin\Debug\1000DaysOnEarth.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\1000DaysOnEarth\obj\Debug\1000DaysOnEarth.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\1000DaysOnEarth\obj\Debug\1000DaysOnEarth.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\1000DaysOnEarth\obj\Debug\1000DaysOnEarth.pdb

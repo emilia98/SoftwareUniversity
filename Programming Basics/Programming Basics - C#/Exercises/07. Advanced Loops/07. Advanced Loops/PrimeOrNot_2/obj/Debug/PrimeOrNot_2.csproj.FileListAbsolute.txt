@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PrimeOrNot_2\bin\Debug\PrimeOrNot_2.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PrimeOrNot_2\bin\Debug\PrimeOrNot_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PrimeOrNot_2\bin\Debug\PrimeOrNot_2.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PrimeOrNot_2\obj\Debug\PrimeOrNot_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\07. Advanced Loops\07. Advanced Loops\PrimeOrNot_2\obj\Debug\PrimeOrNot_2.pdb

@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\OperationsBetweenNumbers\bin\Debug\OperationsBetweenNumbers.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\OperationsBetweenNumbers\bin\Debug\OperationsBetweenNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\OperationsBetweenNumbers\obj\Debug\OperationsBetweenNumbers.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\OperationsBetweenNumbers\obj\Debug\OperationsBetweenNumbers.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\04. Complex Conditionals\04. Complex Conditionals\OperationsBetweenNumbers\obj\Debug\OperationsBetweenNumbers.pdb

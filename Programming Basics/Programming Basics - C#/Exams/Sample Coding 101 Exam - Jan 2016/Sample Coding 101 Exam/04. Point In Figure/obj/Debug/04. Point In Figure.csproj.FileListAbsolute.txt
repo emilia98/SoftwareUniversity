@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\04. Point In Figure\bin\Debug\_04.Point_In_Figure.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\04. Point In Figure\bin\Debug\_04.Point_In_Figure.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\04. Point In Figure\obj\Debug\04. Point In Figure.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\04. Point In Figure\obj\Debug\_04.Point_In_Figure.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\04. Point In Figure\obj\Debug\_04.Point_In_Figure.pdb

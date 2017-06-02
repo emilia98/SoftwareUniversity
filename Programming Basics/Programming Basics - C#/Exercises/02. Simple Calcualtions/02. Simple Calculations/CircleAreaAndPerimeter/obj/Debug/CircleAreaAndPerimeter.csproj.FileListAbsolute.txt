@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

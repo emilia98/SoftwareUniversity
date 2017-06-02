@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\RectangleNxNStars_2\bin\Debug\RectangleNxNStars_2.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\RectangleNxNStars_2\bin\Debug\RectangleNxNStars_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\RectangleNxNStars_2\bin\Debug\RectangleNxNStars_2.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\RectangleNxNStars_2\obj\Debug\RectangleNxNStars_2.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\RectangleNxNStars_2\obj\Debug\RectangleNxNStars_2.pdb

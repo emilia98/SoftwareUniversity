@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

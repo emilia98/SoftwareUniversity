@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\09. Perfect Diamond\bin\Debug\_09.Perfect_Diamond.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\09. Perfect Diamond\bin\Debug\_09.Perfect_Diamond.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\09. Perfect Diamond\obj\Debug\09. Perfect Diamond.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\09. Perfect Diamond\obj\Debug\_09.Perfect_Diamond.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\09. Perfect Diamond\obj\Debug\_09.Perfect_Diamond.pdb

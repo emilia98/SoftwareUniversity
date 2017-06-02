@@ -1,0 +1,69 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\csc.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\vbc.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\VBCSCompiler.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Ratings - WebApp.dll.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Ratings - WebApp.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Ratings - WebApp.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Antlr3.Runtime.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\EntityFramework.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\EntityFramework.SqlServer.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Newtonsoft.Json.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Owin.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.Helpers.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.Mvc.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.Optimization.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.Razor.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.WebPages.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.WebPages.Razor.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\WebGrease.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.Helpers.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.Mvc.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.Optimization.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.Razor.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.WebPages.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\System.Web.WebPages.Razor.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Antlr3.Runtime.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Newtonsoft.Json.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\EntityFramework.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\EntityFramework.SqlServer.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\obj\Debug\Ratings - WebApp.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\obj\Debug\Ratings - WebApp.dll
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Ratings - WebApp\obj\Debug\Ratings - WebApp.pdb

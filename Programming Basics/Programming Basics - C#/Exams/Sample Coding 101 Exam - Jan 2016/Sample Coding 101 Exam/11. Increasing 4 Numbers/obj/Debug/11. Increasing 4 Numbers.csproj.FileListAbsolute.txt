@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\11. Increasing 4 Numbers\bin\Debug\_11.Increasing_4_Numbers.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\11. Increasing 4 Numbers\bin\Debug\_11.Increasing_4_Numbers.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\11. Increasing 4 Numbers\obj\Debug\11. Increasing 4 Numbers.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\11. Increasing 4 Numbers\obj\Debug\_11.Increasing_4_Numbers.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Sample Coding 101 Exam - Jan 2016\Sample Coding 101 Exam\11. Increasing 4 Numbers\obj\Debug\_11.Increasing_4_Numbers.pdb

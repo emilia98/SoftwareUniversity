@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

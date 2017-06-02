@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\ConcatenateStringsAndNumbers\bin\Debug\ConcatenateStringsAndNumbers.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\ConcatenateStringsAndNumbers\bin\Debug\ConcatenateStringsAndNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\ConcatenateStringsAndNumbers\obj\Debug\ConcatenateStringsAndNumbers.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\ConcatenateStringsAndNumbers\obj\Debug\ConcatenateStringsAndNumbers.pdb

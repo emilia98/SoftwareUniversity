@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\02. Expression\Expression\bin\Debug\Expression.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\02. Expression\Expression\bin\Debug\Expression.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\02. Expression\Expression\bin\Debug\Expression.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\02. Expression\Expression\obj\Debug\Expression.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\02. Expression\Expression\obj\Debug\Expression.pdb

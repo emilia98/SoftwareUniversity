@@ -1,0 +1,10 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\bin\Debug\Numbers1To100.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\bin\Debug\Numbers1To100.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\obj\Debug\Numbers1To100.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\obj\Debug\Numbers1To100.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\obj\Debug\Numbers1To100.pdb
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\obj\Debug\Numbers1To100.exe
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\obj\Debug\Numbers1To100.pdb
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\bin\Debug\Numbers1To100.exe
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\bin\Debug\Numbers1To100.pdb
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\Numbers1To100\obj\Debug\Numbers1To100.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\04. Triangle Of 55 Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\04. Triangle Of 55 Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\04. Triangle Of 55 Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\04. Triangle Of 55 Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\04. Triangle Of 55 Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\01.First step in Coding\04. Triangle Of 55 Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\01.First step in Coding\04. Triangle Of 55 Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\01.First step in Coding\04. Triangle Of 55 Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

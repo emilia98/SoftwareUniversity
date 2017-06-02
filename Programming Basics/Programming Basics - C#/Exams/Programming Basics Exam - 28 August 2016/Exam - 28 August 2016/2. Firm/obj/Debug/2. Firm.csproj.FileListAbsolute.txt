@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\2. Firm\bin\Debug\_2.Firm.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\2. Firm\bin\Debug\_2.Firm.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\2. Firm\obj\Debug\2. Firm.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\2. Firm\obj\Debug\_2.Firm.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\2. Firm\obj\Debug\_2.Firm.pdb

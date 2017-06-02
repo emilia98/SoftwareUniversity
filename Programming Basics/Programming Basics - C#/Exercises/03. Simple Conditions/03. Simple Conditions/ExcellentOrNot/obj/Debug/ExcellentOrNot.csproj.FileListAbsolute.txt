@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentOrNot\bin\Debug\ExcellentOrNot.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentOrNot\obj\Debug\ExcellentOrNot.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\03. Simple Conditions\03. Simple Conditions\ExcellentOrNot\obj\Debug\ExcellentOrNot.pdb

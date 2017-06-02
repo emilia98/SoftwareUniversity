@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\5. Axe\bin\Debug\_5.Axe.exe.config
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\5. Axe\bin\Debug\_5.Axe.exe
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\5. Axe\bin\Debug\_5.Axe.pdb
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\5. Axe\obj\Debug\5. Axe.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\5. Axe\obj\Debug\_5.Axe.exe
+D:\SOFTWARE UNIVERSITY\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\5. Axe\obj\Debug\_5.Axe.pdb

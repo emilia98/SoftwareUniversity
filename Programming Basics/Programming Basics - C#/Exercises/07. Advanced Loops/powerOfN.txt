@@ -1,0 +1,6 @@
+int powerOfN = (int)Math.Pow(2,n);
+
+for(int i = 1; i <= powerOfN; i *= 2)
+{
+  Console.WriteLine(i);
+}

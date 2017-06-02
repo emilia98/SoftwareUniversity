@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DivisionWithoutReminder\bin\Debug\DivisionWithoutReminder.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DivisionWithoutReminder\bin\Debug\DivisionWithoutReminder.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DivisionWithoutReminder\obj\Debug\DivisionWithoutReminder.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DivisionWithoutReminder\obj\Debug\DivisionWithoutReminder.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\DivisionWithoutReminder\obj\Debug\DivisionWithoutReminder.pdb

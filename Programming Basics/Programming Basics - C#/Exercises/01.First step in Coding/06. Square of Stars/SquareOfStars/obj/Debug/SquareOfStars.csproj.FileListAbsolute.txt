@@ -1,0 +1,12 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\06. Square of Stars\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\06. Square of Stars\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\06. Square of Stars\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\06. Square of Stars\SquareOfStars\obj\Debug\SquareOfStars.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\06. Square of Stars\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\First step in Coding\06. Square of Stars\SquareOfStars\obj\Debug\SquareOfStars.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\01.First step in Coding\06. Square of Stars\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\01.First step in Coding\06. Square of Stars\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\01.First step in Coding\06. Square of Stars\SquareOfStars\obj\Debug\SquareOfStars.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\01.First step in Coding\06. Square of Stars\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\01.First step in Coding\06. Square of Stars\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\01.First step in Coding\06. Square of Stars\SquareOfStars\obj\Debug\SquareOfStars.csprojResolveAssemblyReference.cache

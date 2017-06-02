@@ -1,0 +1,9 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\BGNtoEUR-Converter\bin\Debug\BGNtoEUR-Converter.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\BGNtoEUR-Converter\obj\Debug\BGNtoEUR-Converter.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\BGNtoEUR-Converter\obj\Debug\BGNtoEUR_Converter.Properties.Resources.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\BGNtoEUR-Converter\obj\Debug\BGNtoEUR-Converter.csproj.GenerateResource.Cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\BGNtoEUR-Converter\bin\Debug\BGNtoEUR-Converter.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\BGNtoEUR-Converter\bin\Debug\BGNtoEUR-Converter.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\BGNtoEUR-Converter\obj\Debug\BGNtoEUR_Converter.Form1.resources
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\BGNtoEUR-Converter\obj\Debug\BGNtoEUR-Converter.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\02. Simple Calcualtions\02. Simple Calculations\BGNtoEUR-Converter\obj\Debug\BGNtoEUR-Converter.pdb

@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\NumbersEndingIn7_1\bin\Debug\NumbersEndingIn7_1.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\NumbersEndingIn7_1\bin\Debug\NumbersEndingIn7_1.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\NumbersEndingIn7_1\obj\Debug\NumbersEndingIn7_1.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\05. Simple Loops\05. Simple Loops\NumbersEndingIn7_1\obj\Debug\NumbersEndingIn7_1.pdb

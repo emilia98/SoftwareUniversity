@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\03. Nums 1 to 20\Nums1to20-stupid\bin\Debug\Nums1to20-stupid.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\03. Nums 1 to 20\Nums1to20-stupid\bin\Debug\Nums1to20-stupid.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\03. Nums 1 to 20\Nums1to20-stupid\bin\Debug\Nums1to20-stupid.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\03. Nums 1 to 20\Nums1to20-stupid\obj\Debug\Nums1to20-stupid.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\03. Nums 1 to 20\Nums1to20-stupid\obj\Debug\Nums1to20-stupid.pdb

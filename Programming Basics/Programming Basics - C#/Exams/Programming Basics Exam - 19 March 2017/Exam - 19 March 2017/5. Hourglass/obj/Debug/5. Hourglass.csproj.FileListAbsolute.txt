@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 19 March 2017\Exam - 19 March 2017\5. Hourglass\bin\Debug\_5.Hourglass.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 19 March 2017\Exam - 19 March 2017\5. Hourglass\bin\Debug\_5.Hourglass.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 19 March 2017\Exam - 19 March 2017\5. Hourglass\obj\Debug\_5.Hourglass.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 19 March 2017\Exam - 19 March 2017\5. Hourglass\obj\Debug\_5.Hourglass.pdb

@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\4. Hospital\bin\Debug\_4.Hospital.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\4. Hospital\bin\Debug\_4.Hospital.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\4. Hospital\obj\Debug\_4.Hospital.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Exam - 28 August 2016\4. Hospital\obj\Debug\_4.Hospital.pdb

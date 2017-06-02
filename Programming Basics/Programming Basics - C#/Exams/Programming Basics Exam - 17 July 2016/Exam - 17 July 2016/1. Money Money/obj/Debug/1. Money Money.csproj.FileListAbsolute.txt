@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money Money\bin\Debug\_1.Money_Money.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money Money\bin\Debug\_1.Money_Money.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money Money\obj\Debug\_1.Money_Money.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money Money\obj\Debug\_1.Money_Money.pdb

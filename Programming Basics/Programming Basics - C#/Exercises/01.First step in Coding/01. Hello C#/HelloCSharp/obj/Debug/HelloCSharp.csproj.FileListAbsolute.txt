@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\01. Hello C#\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\01. Hello C#\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\01. Hello C#\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\01. Hello C#\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics Exercises\First step in Coding\01. Hello C#\HelloCSharp\obj\Debug\HelloCSharp.pdb

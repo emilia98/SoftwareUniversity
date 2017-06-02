@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 19 March 2017\Exam - 19 March 2017\1. House Painting\bin\Debug\_1.House_Painting.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 19 March 2017\Exam - 19 March 2017\1. House Painting\bin\Debug\_1.House_Painting.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 19 March 2017\Exam - 19 March 2017\1. House Painting\obj\Debug\_1.House_Painting.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exams\Programming Basics Exam - 19 March 2017\Exam - 19 March 2017\1. House Painting\obj\Debug\_1.House_Painting.pdb

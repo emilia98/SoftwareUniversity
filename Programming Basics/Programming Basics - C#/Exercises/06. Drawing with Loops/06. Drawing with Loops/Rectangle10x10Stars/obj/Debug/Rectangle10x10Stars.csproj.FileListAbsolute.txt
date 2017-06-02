@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Rectangle10x10Stars\bin\Debug\Rectangle10x10Stars.exe.config
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Rectangle10x10Stars\bin\Debug\Rectangle10x10Stars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Rectangle10x10Stars\bin\Debug\Rectangle10x10Stars.pdb
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Rectangle10x10Stars\obj\Debug\Rectangle10x10Stars.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Rectangle10x10Stars\obj\Debug\Rectangle10x10Stars.exe
+D:\SOFTWARE UNIVERSITY\Programing Basics\Programming Basics - Exercises\06. Drawing with Loops\06. Drawing with Loops\Rectangle10x10Stars\obj\Debug\Rectangle10x10Stars.pdb
