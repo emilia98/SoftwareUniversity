@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\07.DivisibleBy3_2\bin\Debug\07.DivisibleBy3_2.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\07.DivisibleBy3_2\bin\Debug\07.DivisibleBy3_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\07.DivisibleBy3_2\bin\Debug\07.DivisibleBy3_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\07.DivisibleBy3_2\obj\Debug\07.DivisibleBy3_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\07.DivisibleBy3_2\obj\Debug\07.DivisibleBy3_2.pdb

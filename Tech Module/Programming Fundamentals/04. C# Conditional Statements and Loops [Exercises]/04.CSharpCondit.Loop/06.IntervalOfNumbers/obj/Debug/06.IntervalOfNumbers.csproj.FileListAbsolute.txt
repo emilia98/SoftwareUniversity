@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\06.IntervalOfNumbers\bin\Debug\06.IntervalOfNumbers.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\06.IntervalOfNumbers\bin\Debug\06.IntervalOfNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\06.IntervalOfNumbers\bin\Debug\06.IntervalOfNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\06.IntervalOfNumbers\obj\Debug\06.IntervalOfNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\06.IntervalOfNumbers\obj\Debug\06.IntervalOfNumbers.pdb

@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\08.RefactorPyramidVolume\bin\Debug\08.RefactorPyramidVolume.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\08.RefactorPyramidVolume\bin\Debug\08.RefactorPyramidVolume.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\08.RefactorPyramidVolume\bin\Debug\08.RefactorPyramidVolume.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\08.RefactorPyramidVolume\obj\Debug\08.RefactorPyramidVolume.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\08.RefactorPyramidVolume\obj\Debug\08.RefactorPyramidVolume.pdb

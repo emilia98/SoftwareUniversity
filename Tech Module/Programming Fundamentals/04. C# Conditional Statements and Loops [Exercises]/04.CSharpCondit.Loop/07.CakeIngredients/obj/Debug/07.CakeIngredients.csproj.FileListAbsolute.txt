@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\07.CakeIngredients\bin\Debug\07.CakeIngredients.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\07.CakeIngredients\obj\Debug\07.CakeIngredients.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\07.CakeIngredients\obj\Debug\07.CakeIngredients.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\07.CakeIngredients\obj\Debug\07.CakeIngredients.csprojResolveAssemblyReference.cache

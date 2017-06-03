@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\10.MultiplicationTable02\bin\Debug\10.MultiplicationTable02.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\10.MultiplicationTable02\bin\Debug\10.MultiplicationTable02.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\10.MultiplicationTable02\bin\Debug\10.MultiplicationTable02.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\10.MultiplicationTable02\obj\Debug\10.MultiplicationTable02.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\10.MultiplicationTable02\obj\Debug\10.MultiplicationTable02.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\10.MultiplicationTable02\obj\Debug\10.MultiplicationTable02.pdb

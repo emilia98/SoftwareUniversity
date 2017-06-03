@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\06.TripleOfLetters\bin\Debug\06.TripleOfLetters.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\06.TripleOfLetters\bin\Debug\06.TripleOfLetters.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\06.TripleOfLetters\obj\Debug\06.TripleOfLetters.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\06.TripleOfLetters\obj\Debug\06.TripleOfLetters.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\06.TripleOfLetters\obj\Debug\06.TripleOfLetters.csprojResolveAssemblyReference.cache

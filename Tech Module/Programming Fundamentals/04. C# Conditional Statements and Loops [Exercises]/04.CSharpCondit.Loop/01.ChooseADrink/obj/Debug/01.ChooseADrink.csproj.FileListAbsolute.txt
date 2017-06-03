@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\01.ChooseADrink\bin\Debug\01.ChooseADrink.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\01.ChooseADrink\bin\Debug\01.ChooseADrink.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\01.ChooseADrink\obj\Debug\01.ChooseADrink.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\01.ChooseADrink\obj\Debug\01.ChooseADrink.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\01.ChooseADrink\obj\Debug\01.ChooseADrink.pdb

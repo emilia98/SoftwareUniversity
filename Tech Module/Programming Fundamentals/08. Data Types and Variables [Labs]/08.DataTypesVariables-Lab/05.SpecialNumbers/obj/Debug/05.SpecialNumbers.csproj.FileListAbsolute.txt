@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.pdb

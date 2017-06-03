@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\04.Elevator\bin\Debug\04.Elevator.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\04.Elevator\bin\Debug\04.Elevator.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\04.Elevator\bin\Debug\04.Elevator.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\04.Elevator\obj\Debug\04.Elevator.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\04.Elevator\obj\Debug\04.Elevator.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\04.Elevator\obj\Debug\04.Elevator.pdb

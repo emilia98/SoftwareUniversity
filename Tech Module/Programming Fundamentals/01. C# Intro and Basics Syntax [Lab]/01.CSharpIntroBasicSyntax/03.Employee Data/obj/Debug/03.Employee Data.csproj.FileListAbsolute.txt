@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\01. C# Intro and Basics Syntax [Lab]\01.CSharpIntroBasicSyntax\03.Employee Data\bin\Debug\03.Employee Data.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\01. C# Intro and Basics Syntax [Lab]\01.CSharpIntroBasicSyntax\03.Employee Data\bin\Debug\03.Employee Data.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\01. C# Intro and Basics Syntax [Lab]\01.CSharpIntroBasicSyntax\03.Employee Data\bin\Debug\03.Employee Data.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\01. C# Intro and Basics Syntax [Lab]\01.CSharpIntroBasicSyntax\03.Employee Data\obj\Debug\03.Employee Data.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\01. C# Intro and Basics Syntax [Lab]\01.CSharpIntroBasicSyntax\03.Employee Data\obj\Debug\03.Employee Data.pdb

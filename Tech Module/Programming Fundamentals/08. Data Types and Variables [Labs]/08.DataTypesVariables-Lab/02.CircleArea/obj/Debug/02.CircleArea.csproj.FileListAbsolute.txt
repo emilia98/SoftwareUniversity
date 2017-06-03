@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\02.CircleArea\bin\Debug\02.CircleArea.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\02.CircleArea\bin\Debug\02.CircleArea.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\02.CircleArea\bin\Debug\02.CircleArea.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\02.CircleArea\obj\Debug\02.CircleArea.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\02.CircleArea\obj\Debug\02.CircleArea.pdb

@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\03.MilesToKilometers\obj\Debug\03.MilesToKilometers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\03.MilesToKilometers\obj\Debug\03.MilesToKilometers.pdb

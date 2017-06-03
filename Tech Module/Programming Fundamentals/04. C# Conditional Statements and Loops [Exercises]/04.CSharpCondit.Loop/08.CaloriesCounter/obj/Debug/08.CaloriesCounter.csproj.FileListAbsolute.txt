@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\04. C# Conditional Statements and Loops [Exercises]\04.CSharpCondit.Loop\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.pdb

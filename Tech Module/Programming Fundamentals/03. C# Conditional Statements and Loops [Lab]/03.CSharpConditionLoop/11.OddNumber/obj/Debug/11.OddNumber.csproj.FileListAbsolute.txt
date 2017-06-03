@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\11.OddNumber\bin\Debug\11.OddNumber.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\11.OddNumber\bin\Debug\11.OddNumber.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\11.OddNumber\bin\Debug\11.OddNumber.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\11.OddNumber\obj\Debug\11.OddNumber.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\03. C# Conditional Statements and Loops [Lab]\03.CSharpConditionLoop\11.OddNumber\obj\Debug\11.OddNumber.pdb

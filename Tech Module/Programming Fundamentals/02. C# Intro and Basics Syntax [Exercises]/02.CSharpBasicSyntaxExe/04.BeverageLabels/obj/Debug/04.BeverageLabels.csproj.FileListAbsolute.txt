@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\04.BeverageLabels\bin\Debug\04.BeverageLabels.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\04.BeverageLabels\obj\Debug\04.BeverageLabels.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\04.BeverageLabels\obj\Debug\04.BeverageLabels.pdb

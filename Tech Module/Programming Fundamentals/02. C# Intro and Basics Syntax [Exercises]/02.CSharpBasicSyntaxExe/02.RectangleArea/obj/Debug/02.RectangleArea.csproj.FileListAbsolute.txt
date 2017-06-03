@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\02.RectangleArea\bin\Debug\02.RectangleArea.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\02.RectangleArea\bin\Debug\02.RectangleArea.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\02.RectangleArea\obj\Debug\02.RectangleArea.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\02. C# Intro and Basics Syntax [Exercises]\02.CSharpBasicSyntaxExe\02.RectangleArea\obj\Debug\02.RectangleArea.pdb

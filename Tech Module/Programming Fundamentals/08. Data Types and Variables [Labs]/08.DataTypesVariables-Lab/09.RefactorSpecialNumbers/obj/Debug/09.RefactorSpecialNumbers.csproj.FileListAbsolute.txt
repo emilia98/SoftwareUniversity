@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\09.RefactorSpecialNumbers\bin\Debug\09.RefactorSpecialNumbers.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\09.RefactorSpecialNumbers\bin\Debug\09.RefactorSpecialNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\09.RefactorSpecialNumbers\bin\Debug\09.RefactorSpecialNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\09.RefactorSpecialNumbers\obj\Debug\09.RefactorSpecialNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\08. Data Types and Variables [Labs]\08.DataTypesVariables-Lab\09.RefactorSpecialNumbers\obj\Debug\09.RefactorSpecialNumbers.pdb

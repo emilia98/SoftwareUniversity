@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\01. C# Intro and Basics Syntax [Lab]\01.CSharpIntroBasicSyntax\02.AddTwoNumbers\bin\Debug\02.AddTwoNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\01. C# Intro and Basics Syntax [Lab]\01.CSharpIntroBasicSyntax\02.AddTwoNumbers\bin\Debug\02.AddTwoNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\01. C# Intro and Basics Syntax [Lab]\01.CSharpIntroBasicSyntax\02.AddTwoNumbers\obj\Debug\02.AddTwoNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\01. C# Intro and Basics Syntax [Lab]\01.CSharpIntroBasicSyntax\02.AddTwoNumbers\obj\Debug\02.AddTwoNumbers.pdb
