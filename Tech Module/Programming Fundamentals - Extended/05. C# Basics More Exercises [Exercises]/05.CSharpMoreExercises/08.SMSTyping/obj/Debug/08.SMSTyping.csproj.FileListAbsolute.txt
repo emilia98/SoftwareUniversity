@@ -3,3 +3,5 @@ D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More E
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\08.SMSTyping\bin\Debug\08.SMSTyping.pdb
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.exe
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.pdb

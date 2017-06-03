@@ -4,7 +4,7 @@ namespace _05.BPMCounter
 {
     class BPMCounter
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int beatsPerMinute = int.Parse(Console.ReadLine());
             int numberOfBeats = int.Parse(Console.ReadLine());
@@ -15,7 +15,7 @@ namespace _05.BPMCounter
 
             seconds = (int)(numberOfBeats / beatsPerSecond);
            
-            if (seconds > 60)
+            if (seconds >= 60)
             {
                 minutes = seconds / 60;
                 seconds -= minutes * 60;

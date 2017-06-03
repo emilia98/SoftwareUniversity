@@ -2,3 +2,5 @@ D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More E
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\03.Megapixels\bin\Debug\03.Megapixels.pdb
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\03.Megapixels\obj\Debug\03.Megapixels.exe
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\03.Megapixels\obj\Debug\03.Megapixels.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\03.Megapixels\obj\Debug\03.Megapixels.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\03.Megapixels\obj\Debug\03.Megapixels.pdb

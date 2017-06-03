@@ -4,3 +4,5 @@ D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More E
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\07.TrainingHallEquipment\obj\Debug\07.TrainingHallEquipment.csprojResolveAssemblyReference.cache
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\07.TrainingHallEquipment\obj\Debug\07.TrainingHallEquipment.exe
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\07.TrainingHallEquipment\obj\Debug\07.TrainingHallEquipment.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\07.TrainingHallEquipment\obj\Debug\07.TrainingHallEquipment.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\07.TrainingHallEquipment\obj\Debug\07.TrainingHallEquipment.pdb

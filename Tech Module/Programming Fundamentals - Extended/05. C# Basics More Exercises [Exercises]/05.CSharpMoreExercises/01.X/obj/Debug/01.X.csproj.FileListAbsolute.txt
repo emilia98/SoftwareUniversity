@@ -3,3 +3,5 @@ D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More E
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\01.X\obj\Debug\01.X.csprojResolveAssemblyReference.cache
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\01.X\obj\Debug\01.X.exe
 D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\01.X\obj\Debug\01.X.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\01.X\obj\Debug\01.X.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\05. C# Basics More Exercises [Exercises]\05.CSharpMoreExercises\01.X\obj\Debug\01.X.pdb
