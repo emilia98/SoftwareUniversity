@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.pdb

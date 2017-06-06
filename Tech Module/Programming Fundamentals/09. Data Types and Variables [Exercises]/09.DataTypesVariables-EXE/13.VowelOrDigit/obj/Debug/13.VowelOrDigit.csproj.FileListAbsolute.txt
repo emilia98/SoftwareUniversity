@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.pdb

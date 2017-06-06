@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\02.CirclePerimeter\bin\Debug\02.CirclePerimeter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\02.CirclePerimeter\bin\Debug\02.CirclePerimeter.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\02.CirclePerimeter\obj\Debug\02.CirclePerimeter.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\02.CirclePerimeter\obj\Debug\02.CirclePerimeter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\02.CirclePerimeter\obj\Debug\02.CirclePerimeter.pdb

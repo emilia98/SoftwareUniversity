@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\04.VariableHexFormat\bin\Debug\04.VariableHexFormat.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\04.VariableHexFormat\bin\Debug\04.VariableHexFormat.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\04.VariableHexFormat\obj\Debug\04.VariableHexFormat.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\04.VariableHexFormat\obj\Debug\04.VariableHexFormat.pdb

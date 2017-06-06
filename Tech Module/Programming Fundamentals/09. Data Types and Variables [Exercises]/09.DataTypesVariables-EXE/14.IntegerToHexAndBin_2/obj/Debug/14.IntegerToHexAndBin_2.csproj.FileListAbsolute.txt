@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\14.IntegerToHexAndBin_2\bin\Debug\14.IntegerToHexAndBin_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\14.IntegerToHexAndBin_2\bin\Debug\14.IntegerToHexAndBin_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\14.IntegerToHexAndBin_2\obj\Debug\14.IntegerToHexAndBin_2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\14.IntegerToHexAndBin_2\obj\Debug\14.IntegerToHexAndBin_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\14.IntegerToHexAndBin_2\obj\Debug\14.IntegerToHexAndBin_2.pdb

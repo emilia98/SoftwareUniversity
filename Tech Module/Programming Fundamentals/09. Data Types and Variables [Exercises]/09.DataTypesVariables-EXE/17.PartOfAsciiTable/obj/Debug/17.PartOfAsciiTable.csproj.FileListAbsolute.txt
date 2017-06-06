@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\17.PartOfAsciiTable\bin\Debug\17.PartOfAsciiTable.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\17.PartOfAsciiTable\bin\Debug\17.PartOfAsciiTable.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\17.PartOfAsciiTable\bin\Debug\17.PartOfAsciiTable.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\17.PartOfAsciiTable\obj\Debug\17.PartOfAsciiTable.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\17.PartOfAsciiTable\obj\Debug\17.PartOfAsciiTable.pdb

@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\03.PracticeCharsStrings\bin\Debug\03.PracticeCharsStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\03.PracticeCharsStrings\bin\Debug\03.PracticeCharsStrings.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\03.PracticeCharsStrings\obj\Debug\03.PracticeCharsStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\03.PracticeCharsStrings\obj\Debug\03.PracticeCharsStrings.pdb

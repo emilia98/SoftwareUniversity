@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\18.DifferentIntegerSizes\bin\Debug\18.DifferentIntegerSizes.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\18.DifferentIntegerSizes\bin\Debug\18.DifferentIntegerSizes.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\18.DifferentIntegerSizes\bin\Debug\18.DifferentIntegerSizes.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\18.DifferentIntegerSizes\obj\Debug\18.DifferentIntegerSizes.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\18.DifferentIntegerSizes\obj\Debug\18.DifferentIntegerSizes.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\09. Data Types and Variables [Exercises]\09.DataTypesVariables-EXE\18.DifferentIntegerSizes\obj\Debug\18.DifferentIntegerSizes.pdb

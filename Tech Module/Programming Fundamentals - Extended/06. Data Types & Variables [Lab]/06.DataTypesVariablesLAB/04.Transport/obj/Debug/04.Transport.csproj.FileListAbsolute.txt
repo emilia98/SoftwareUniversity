@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\04.Transport\bin\Debug\04.Transport.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\04.Transport\bin\Debug\04.Transport.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\04.Transport\bin\Debug\04.Transport.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\04.Transport\obj\Debug\04.Transport.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\06. Data Types & Variables [Lab]\06.DataTypesVariablesLAB\04.Transport\obj\Debug\04.Transport.pdb
