@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\16.TrickyStrings\bin\Debug\16.TrickyStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\16.TrickyStrings\bin\Debug\16.TrickyStrings.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\16.TrickyStrings\obj\Debug\16.TrickyStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\16.TrickyStrings\obj\Debug\16.TrickyStrings.pdb

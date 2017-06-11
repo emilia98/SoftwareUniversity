@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\09.TriangleFormation\bin\Debug\09.TriangleFormation.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\09.TriangleFormation\bin\Debug\09.TriangleFormation.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\09.TriangleFormation\bin\Debug\09.TriangleFormation.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\09.TriangleFormation\obj\Debug\09.TriangleFormation.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\09.TriangleFormation\obj\Debug\09.TriangleFormation.pdb

@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\05.DistanceOfTheStars\bin\Debug\05.DistanceOfTheStars.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\05.DistanceOfTheStars\bin\Debug\05.DistanceOfTheStars.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\05.DistanceOfTheStars\obj\Debug\05.DistanceOfTheStars.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\05.DistanceOfTheStars\obj\Debug\05.DistanceOfTheStars.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\05.DistanceOfTheStars\obj\Debug\05.DistanceOfTheStars.pdb

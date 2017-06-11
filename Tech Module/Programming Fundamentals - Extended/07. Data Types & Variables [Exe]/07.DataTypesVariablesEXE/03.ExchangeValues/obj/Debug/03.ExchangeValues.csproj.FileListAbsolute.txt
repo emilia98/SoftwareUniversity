@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\03.ExchangeValues\bin\Debug\03.ExchangeValues.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\03.ExchangeValues\bin\Debug\03.ExchangeValues.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\03.ExchangeValues\bin\Debug\03.ExchangeValues.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\03.ExchangeValues\obj\Debug\03.ExchangeValues.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\07. Data Types & Variables [Exe]\07.DataTypesVariablesEXE\03.ExchangeValues\obj\Debug\03.ExchangeValues.pdb
