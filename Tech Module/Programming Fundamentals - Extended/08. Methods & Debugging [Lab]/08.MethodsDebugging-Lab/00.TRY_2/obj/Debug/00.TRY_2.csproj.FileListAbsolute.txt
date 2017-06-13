@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\00.TRY_2\bin\Debug\00.TRY_2.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\00.TRY_2\bin\Debug\00.TRY_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\00.TRY_2\bin\Debug\00.TRY_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\00.TRY_2\obj\Debug\00.TRY_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\00.TRY_2\obj\Debug\00.TRY_2.pdb

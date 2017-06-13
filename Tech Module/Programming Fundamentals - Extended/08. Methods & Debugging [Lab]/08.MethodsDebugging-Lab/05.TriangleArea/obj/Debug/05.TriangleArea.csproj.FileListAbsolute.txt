@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\05.TriangleArea\bin\Debug\05.TriangleArea.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\05.TriangleArea\bin\Debug\05.TriangleArea.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\05.TriangleArea\bin\Debug\05.TriangleArea.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\05.TriangleArea\obj\Debug\05.TriangleArea.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\05.TriangleArea\obj\Debug\05.TriangleArea.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\05.TriangleArea\obj\Debug\05.TriangleArea.pdb

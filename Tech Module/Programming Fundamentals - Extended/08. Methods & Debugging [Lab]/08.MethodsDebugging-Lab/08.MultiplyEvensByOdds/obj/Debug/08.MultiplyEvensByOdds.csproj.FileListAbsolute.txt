@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\08.MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\08.MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\08.MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.pdb

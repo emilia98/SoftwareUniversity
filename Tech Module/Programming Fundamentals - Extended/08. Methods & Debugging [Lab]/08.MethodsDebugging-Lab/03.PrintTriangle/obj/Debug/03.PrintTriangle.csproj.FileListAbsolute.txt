@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\03.PrintTriangle\bin\Debug\03.PrintTriangle.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\03.PrintTriangle\bin\Debug\03.PrintTriangle.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\03.PrintTriangle\bin\Debug\03.PrintTriangle.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\03.PrintTriangle\obj\Debug\03.PrintTriangle.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\03.PrintTriangle\obj\Debug\03.PrintTriangle.pdb

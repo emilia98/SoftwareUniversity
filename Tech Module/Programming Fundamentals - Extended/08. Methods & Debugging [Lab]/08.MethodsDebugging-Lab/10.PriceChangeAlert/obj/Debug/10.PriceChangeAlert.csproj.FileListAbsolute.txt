@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\10.PriceChangeAlert\bin\Debug\10.PriceChangeAlert.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\10.PriceChangeAlert\bin\Debug\10.PriceChangeAlert.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\10.PriceChangeAlert\bin\Debug\10.PriceChangeAlert.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\10.PriceChangeAlert\obj\Debug\10.PriceChangeAlert.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\10.PriceChangeAlert\obj\Debug\10.PriceChangeAlert.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\08. Methods & Debugging [Lab]\08.MethodsDebugging-Lab\10.PriceChangeAlert\obj\Debug\10.PriceChangeAlert.pdb
