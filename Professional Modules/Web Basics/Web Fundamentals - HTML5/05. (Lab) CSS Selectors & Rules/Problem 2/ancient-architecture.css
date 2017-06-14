@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: Roboto, sans-serif;
+    color: #000000;
+    background-color: #E2D7AA;
+    font-size: 16px;
+    width: 1180px;
+}
+
+nav{
+    margin: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-type: none;
+}
+
+li {
+    display: inline-block;
+    float: left;
+    margin: 0 auto;
+}
+
+nav li a{
+    font-size: 28px;
+    color: #000000;
+    margin: 0 25px;
+}
+
+nav li:first-child > a, nav li:last-child > a{
+    color: #0a2d4a;
+    font-weight: bold;
+}
+
+.img-container{
+    width: 1600px;
+    height: 450px;
+    margin-top: 65px;
+    margin-bottom: 20px;
+}
+
+.img-container > img{
+    width: 1100px;
+    height: 450px;
+
+}
+
+h1{
+    clear: both;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 65px;
+    font-family: 'Indie Flower';
+    letter-spacing: 5px;
+}
+
+article img{
+    width: 350px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+article{
+    width: 30.5%;
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+}
+
+p:first-of-type{
+    line-height: 20px;
+    word-spacing: 10px;
+    height: 400px;
+}
+
+h3 > a{
+    color: #0000FF;
+}
+
+article p::first-letter{
+    font-family: Eucrosia UPC sans-serif;
+    font-size: 40px;
+}
+
+
+article span a{
+    background: url(images/bg2.jpg);
+    color: #FFFFFF;
+    padding: 10px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+article p:last-of-type span:first-of-type a::before{
+    content: url("images/comment.png");
+    position: relative;
+    right: 5px;
+    top: 7px;
+}
+
+footer{
+    clear: both;
+    margin: 0;
+    padding: 40px 0 64px 0;
+    text-align: center;
+}
