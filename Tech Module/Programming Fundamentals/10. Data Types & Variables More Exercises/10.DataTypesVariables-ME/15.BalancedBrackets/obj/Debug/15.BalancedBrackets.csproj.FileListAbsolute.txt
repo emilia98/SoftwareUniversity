@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\15.BalancedBrackets\bin\Debug\15.BalancedBrackets.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\15.BalancedBrackets\bin\Debug\15.BalancedBrackets.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\15.BalancedBrackets\obj\Debug\15.BalancedBrackets.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\15.BalancedBrackets\obj\Debug\15.BalancedBrackets.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\15.BalancedBrackets\obj\Debug\15.BalancedBrackets.pdb

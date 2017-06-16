@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\11.StringConcatenation\bin\Debug\11.StringConcatenation.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\11.StringConcatenation\bin\Debug\11.StringConcatenation.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\11.StringConcatenation\bin\Debug\11.StringConcatenation.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\11.StringConcatenation\obj\Debug\11.StringConcatenation.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\11.StringConcatenation\obj\Debug\11.StringConcatenation.pdb

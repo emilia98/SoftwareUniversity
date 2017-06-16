@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\06.CatchTheThief\bin\Debug\06.CatchTheThief.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\06.CatchTheThief\bin\Debug\06.CatchTheThief.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\06.CatchTheThief\obj\Debug\06.CatchTheThief.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\06.CatchTheThief\obj\Debug\06.CatchTheThief.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\06.CatchTheThief\obj\Debug\06.CatchTheThief.pdb

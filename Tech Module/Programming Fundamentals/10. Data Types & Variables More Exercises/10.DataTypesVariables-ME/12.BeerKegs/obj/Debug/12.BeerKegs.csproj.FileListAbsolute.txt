@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\12.BeerKegs\bin\Debug\12.BeerKegs.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\12.BeerKegs\bin\Debug\12.BeerKegs.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\12.BeerKegs\obj\Debug\12.BeerKegs.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\12.BeerKegs\obj\Debug\12.BeerKegs.pdb

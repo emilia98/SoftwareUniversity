@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\09.MakeAWord\bin\Debug\09.MakeAWord.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\09.MakeAWord\bin\Debug\09.MakeAWord.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\09.MakeAWord\bin\Debug\09.MakeAWord.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\09.MakeAWord\obj\Debug\09.MakeAWord.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\09.MakeAWord\obj\Debug\09.MakeAWord.pdb

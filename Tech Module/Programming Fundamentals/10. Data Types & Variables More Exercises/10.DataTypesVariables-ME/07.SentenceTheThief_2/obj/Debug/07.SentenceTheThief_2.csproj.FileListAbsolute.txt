@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\07.SentenceTheThief_2\bin\Debug\07.SentenceTheThief_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\07.SentenceTheThief_2\bin\Debug\07.SentenceTheThief_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\07.SentenceTheThief_2\obj\Debug\07.SentenceTheThief_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\10. Data Types & Variables More Exercises\10.DataTypesVariables-ME\07.SentenceTheThief_2\obj\Debug\07.SentenceTheThief_2.pdb
