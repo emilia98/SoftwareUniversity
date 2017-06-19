@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\16.ArraySymmetry\bin\Debug\16.ArraySymmetry.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\16.ArraySymmetry\obj\Debug\16.ArraySymmetry.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\16.ArraySymmetry\bin\Debug\16.ArraySymmetry.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\16.ArraySymmetry\bin\Debug\16.ArraySymmetry.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\16.ArraySymmetry\obj\Debug\16.ArraySymmetry.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\16.ArraySymmetry\obj\Debug\16.ArraySymmetry.pdb

@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\15.CountCapitalLetters_2\bin\Debug\15.CountCapitalLetters_2.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\15.CountCapitalLetters_2\bin\Debug\15.CountCapitalLetters_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\15.CountCapitalLetters_2\bin\Debug\15.CountCapitalLetters_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\15.CountCapitalLetters_2\obj\Debug\15.CountCapitalLetters_2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\15.CountCapitalLetters_2\obj\Debug\15.CountCapitalLetters_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\15.CountCapitalLetters_2\obj\Debug\15.CountCapitalLetters_2.pdb

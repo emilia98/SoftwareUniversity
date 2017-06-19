@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\22.Debug-MiningCoins\bin\Debug\22.Debug-MiningCoins.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\22.Debug-MiningCoins\bin\Debug\22.Debug-MiningCoins.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\22.Debug-MiningCoins\bin\Debug\22.Debug-MiningCoins.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\22.Debug-MiningCoins\obj\Debug\22.Debug-MiningCoins.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\22.Debug-MiningCoins\obj\Debug\22.Debug-MiningCoins.pdb

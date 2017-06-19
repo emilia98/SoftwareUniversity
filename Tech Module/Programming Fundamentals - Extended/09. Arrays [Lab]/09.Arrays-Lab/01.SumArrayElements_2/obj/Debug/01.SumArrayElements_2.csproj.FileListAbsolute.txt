@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\01.SumArrayElements_2\bin\Debug\01.SumArrayElements_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\01.SumArrayElements_2\bin\Debug\01.SumArrayElements_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\01.SumArrayElements_2\obj\Debug\01.SumArrayElements_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\01.SumArrayElements_2\obj\Debug\01.SumArrayElements_2.pdb

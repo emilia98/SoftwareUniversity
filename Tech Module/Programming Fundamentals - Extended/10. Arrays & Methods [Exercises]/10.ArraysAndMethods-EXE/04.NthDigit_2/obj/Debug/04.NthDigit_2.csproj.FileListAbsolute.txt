@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\04.NthDigit_2\bin\Debug\04.NthDigit_2.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\04.NthDigit_2\bin\Debug\04.NthDigit_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\04.NthDigit_2\bin\Debug\04.NthDigit_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\04.NthDigit_2\obj\Debug\04.NthDigit_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\04.NthDigit_2\obj\Debug\04.NthDigit_2.pdb

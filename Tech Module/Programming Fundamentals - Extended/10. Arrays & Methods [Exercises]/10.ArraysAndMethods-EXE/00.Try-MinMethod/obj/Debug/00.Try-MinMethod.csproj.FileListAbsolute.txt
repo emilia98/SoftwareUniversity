@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\00.Try-MinMethod\bin\Debug\00.Try-MinMethod.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\00.Try-MinMethod\bin\Debug\00.Try-MinMethod.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\00.Try-MinMethod\bin\Debug\00.Try-MinMethod.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\00.Try-MinMethod\obj\Debug\00.Try-MinMethod.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\00.Try-MinMethod\obj\Debug\00.Try-MinMethod.pdb

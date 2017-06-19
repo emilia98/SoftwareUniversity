@@ -1,0 +1,1 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\10.CountNegativeElems_2\bin\Debug\10.CountNegativeElems_2.exe.config

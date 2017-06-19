@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\19.Debug-TrickyStrings\bin\Debug\19.Debug-TrickyStrings.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\19.Debug-TrickyStrings\bin\Debug\19.Debug-TrickyStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\19.Debug-TrickyStrings\bin\Debug\19.Debug-TrickyStrings.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\19.Debug-TrickyStrings\obj\Debug\19.Debug-TrickyStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\19.Debug-TrickyStrings\obj\Debug\19.Debug-TrickyStrings.pdb

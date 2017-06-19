@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\06.OddNumbersAtOddPositions\bin\Debug\06.OddNumbersAtOddPositions.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\06.OddNumbersAtOddPositions\bin\Debug\06.OddNumbersAtOddPositions.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\06.OddNumbersAtOddPositions\bin\Debug\06.OddNumbersAtOddPositions.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\06.OddNumbersAtOddPositions\obj\Debug\06.OddNumbersAtOddPositions.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\06.OddNumbersAtOddPositions\obj\Debug\06.OddNumbersAtOddPositions.pdb

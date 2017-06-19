@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\02.MultiplyAnArrayOfDoubles\bin\Debug\02.MultiplyAnArrayOfDoubles.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\02.MultiplyAnArrayOfDoubles\bin\Debug\02.MultiplyAnArrayOfDoubles.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\02.MultiplyAnArrayOfDoubles\bin\Debug\02.MultiplyAnArrayOfDoubles.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\02.MultiplyAnArrayOfDoubles\obj\Debug\02.MultiplyAnArrayOfDoubles.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\09. Arrays [Lab]\09.Arrays-Lab\02.MultiplyAnArrayOfDoubles\obj\Debug\02.MultiplyAnArrayOfDoubles.pdb

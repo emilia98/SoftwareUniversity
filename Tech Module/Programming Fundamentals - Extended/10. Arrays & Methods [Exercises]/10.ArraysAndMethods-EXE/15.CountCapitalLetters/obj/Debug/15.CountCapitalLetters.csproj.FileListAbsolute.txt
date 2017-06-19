@@ -1,0 +1,1 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\10. Arrays & Methods [Exercises]\10.ArraysAndMethods-EXE\15.CountCapitalLetters\bin\Debug\15.CountCapitalLetters.exe.config
