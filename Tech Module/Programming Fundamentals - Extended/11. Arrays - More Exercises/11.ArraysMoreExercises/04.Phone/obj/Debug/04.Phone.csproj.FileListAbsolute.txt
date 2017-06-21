@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\04.Phone\bin\Debug\04.Phone.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\04.Phone\bin\Debug\04.Phone.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\04.Phone\obj\Debug\04.Phone.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\04.Phone\obj\Debug\04.Phone.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\04.Phone\obj\Debug\04.Phone.pdb

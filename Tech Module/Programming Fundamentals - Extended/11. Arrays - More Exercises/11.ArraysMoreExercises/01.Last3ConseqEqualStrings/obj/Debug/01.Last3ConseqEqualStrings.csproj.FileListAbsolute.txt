@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\01.Last3ConseqEqualStrings\bin\Debug\01.Last3ConseqEqualStrings.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\01.Last3ConseqEqualStrings\bin\Debug\01.Last3ConseqEqualStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\01.Last3ConseqEqualStrings\bin\Debug\01.Last3ConseqEqualStrings.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\01.Last3ConseqEqualStrings\obj\Debug\01.Last3ConseqEqualStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\01.Last3ConseqEqualStrings\obj\Debug\01.Last3ConseqEqualStrings.pdb

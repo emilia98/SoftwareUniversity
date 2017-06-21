@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\02.ElementsEqualTheirIndex\bin\Debug\02.ElementsEqualTheirIndex.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\02.ElementsEqualTheirIndex\bin\Debug\02.ElementsEqualTheirIndex.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\02.ElementsEqualTheirIndex\obj\Debug\02.ElementsEqualTheirIndex.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\02.ElementsEqualTheirIndex\obj\Debug\02.ElementsEqualTheirIndex.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\02.ElementsEqualTheirIndex\obj\Debug\02.ElementsEqualTheirIndex.pdb

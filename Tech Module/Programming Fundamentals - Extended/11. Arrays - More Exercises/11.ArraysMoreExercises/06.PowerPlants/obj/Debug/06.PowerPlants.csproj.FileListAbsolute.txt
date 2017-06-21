@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\06.PowerPlants\bin\Debug\06.PowerPlants.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\06.PowerPlants\bin\Debug\06.PowerPlants.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\06.PowerPlants\bin\Debug\06.PowerPlants.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\06.PowerPlants\obj\Debug\06.PowerPlants.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\06.PowerPlants\obj\Debug\06.PowerPlants.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\11. Arrays - More Exercises\11.ArraysMoreExercises\06.PowerPlants\obj\Debug\06.PowerPlants.pdb
