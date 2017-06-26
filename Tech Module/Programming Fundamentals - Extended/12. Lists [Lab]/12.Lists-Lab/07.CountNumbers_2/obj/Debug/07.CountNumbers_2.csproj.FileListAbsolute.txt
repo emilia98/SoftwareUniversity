@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\07.CountNumbers_2\bin\Debug\07.CountNumbers_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\07.CountNumbers_2\bin\Debug\07.CountNumbers_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\07.CountNumbers_2\obj\Debug\07.CountNumbers_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\07.CountNumbers_2\obj\Debug\07.CountNumbers_2.pdb

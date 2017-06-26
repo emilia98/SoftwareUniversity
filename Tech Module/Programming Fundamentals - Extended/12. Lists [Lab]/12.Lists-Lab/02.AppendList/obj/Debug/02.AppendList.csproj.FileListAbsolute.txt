@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\02.AppendList\obj\Debug\02.AppendList.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\02.AppendList\bin\Debug\02.AppendList.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\02.AppendList\bin\Debug\02.AppendList.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\02.AppendList\obj\Debug\02.AppendList.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\02.AppendList\obj\Debug\02.AppendList.pdb

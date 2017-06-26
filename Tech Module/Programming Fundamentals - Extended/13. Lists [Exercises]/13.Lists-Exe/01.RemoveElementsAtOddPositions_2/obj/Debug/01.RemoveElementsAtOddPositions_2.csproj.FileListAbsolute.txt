@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\01.RemoveElementsAtOddPositions_2\bin\Debug\01.RemoveElementsAtOddPositions_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\01.RemoveElementsAtOddPositions_2\bin\Debug\01.RemoveElementsAtOddPositions_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\01.RemoveElementsAtOddPositions_2\obj\Debug\01.RemoveElementsAtOddPositions_2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\01.RemoveElementsAtOddPositions_2\obj\Debug\01.RemoveElementsAtOddPositions_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\01.RemoveElementsAtOddPositions_2\obj\Debug\01.RemoveElementsAtOddPositions_2.pdb

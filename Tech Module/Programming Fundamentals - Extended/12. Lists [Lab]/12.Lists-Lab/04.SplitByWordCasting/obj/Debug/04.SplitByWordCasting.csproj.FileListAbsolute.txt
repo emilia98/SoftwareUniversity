@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\04.SplitByWordCasting\bin\Debug\04.SplitByWordCasting.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\04.SplitByWordCasting\bin\Debug\04.SplitByWordCasting.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\04.SplitByWordCasting\bin\Debug\04.SplitByWordCasting.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\04.SplitByWordCasting\obj\Debug\04.SplitByWordCasting.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\04.SplitByWordCasting\obj\Debug\04.SplitByWordCasting.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\12. Lists [Lab]\12.Lists-Lab\04.SplitByWordCasting\obj\Debug\04.SplitByWordCasting.pdb

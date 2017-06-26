@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\06.StuckZipper\bin\Debug\06.StuckZipper.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\06.StuckZipper\bin\Debug\06.StuckZipper.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\06.StuckZipper\obj\Debug\06.StuckZipper.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\06.StuckZipper\obj\Debug\06.StuckZipper.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\06.StuckZipper\obj\Debug\06.StuckZipper.pdb

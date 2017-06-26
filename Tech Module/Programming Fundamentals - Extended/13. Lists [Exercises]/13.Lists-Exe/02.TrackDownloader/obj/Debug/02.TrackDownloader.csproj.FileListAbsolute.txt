@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\02.TrackDownloader\bin\Debug\02.TrackDownloader.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\02.TrackDownloader\obj\Debug\02.TrackDownloader.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\02.TrackDownloader\obj\Debug\02.TrackDownloader.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\13. Lists [Exercises]\13.Lists-Exe\02.TrackDownloader\obj\Debug\02.TrackDownloader.pdb
