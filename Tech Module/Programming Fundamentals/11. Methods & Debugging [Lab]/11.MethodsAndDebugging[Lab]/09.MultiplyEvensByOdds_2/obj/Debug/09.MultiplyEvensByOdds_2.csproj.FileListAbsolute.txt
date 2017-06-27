@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\09.MultiplyEvensByOdds_2\bin\Debug\09.MultiplyEvensByOdds_2.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\09.MultiplyEvensByOdds_2\bin\Debug\09.MultiplyEvensByOdds_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\09.MultiplyEvensByOdds_2\bin\Debug\09.MultiplyEvensByOdds_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\09.MultiplyEvensByOdds_2\obj\Debug\09.MultiplyEvensByOdds_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\09.MultiplyEvensByOdds_2\obj\Debug\09.MultiplyEvensByOdds_2.pdb

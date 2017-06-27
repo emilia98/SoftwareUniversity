@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\02.SignOfIntegerNumber\obj\Debug\02.SignOfIntegerNumber.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\02.SignOfIntegerNumber\obj\Debug\02.SignOfIntegerNumber.pdb

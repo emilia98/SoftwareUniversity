@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.pdb

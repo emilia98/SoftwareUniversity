@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\11.PriceChangeAlert\bin\Debug\11.PriceChangeAlert.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\11.PriceChangeAlert\bin\Debug\11.PriceChangeAlert.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\11.PriceChangeAlert\obj\Debug\11.PriceChangeAlert.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\11.PriceChangeAlert\obj\Debug\11.PriceChangeAlert.pdb

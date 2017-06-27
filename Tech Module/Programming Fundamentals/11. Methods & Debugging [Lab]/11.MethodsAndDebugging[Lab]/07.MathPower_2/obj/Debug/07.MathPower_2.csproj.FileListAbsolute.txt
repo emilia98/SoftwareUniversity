@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\07.MathPower_2\bin\Debug\07.MathPower_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\07.MathPower_2\bin\Debug\07.MathPower_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\07.MathPower_2\obj\Debug\07.MathPower_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\07.MathPower_2\obj\Debug\07.MathPower_2.pdb

@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\06.CalculateTriangleArea\bin\Debug\06.CalculateTriangleArea.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\06.CalculateTriangleArea\bin\Debug\06.CalculateTriangleArea.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\06.CalculateTriangleArea\bin\Debug\06.CalculateTriangleArea.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\06.CalculateTriangleArea\obj\Debug\06.CalculateTriangleArea.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\11. Methods & Debugging [Lab]\11.MethodsAndDebugging[Lab]\06.CalculateTriangleArea\obj\Debug\06.CalculateTriangleArea.pdb
