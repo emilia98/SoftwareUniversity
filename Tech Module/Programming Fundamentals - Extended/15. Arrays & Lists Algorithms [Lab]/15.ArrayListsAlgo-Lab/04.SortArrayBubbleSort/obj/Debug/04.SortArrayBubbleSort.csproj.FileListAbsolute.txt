@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\04.SortArrayBubbleSort\bin\Debug\04.SortArrayBubbleSort.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\04.SortArrayBubbleSort\bin\Debug\04.SortArrayBubbleSort.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\04.SortArrayBubbleSort\bin\Debug\04.SortArrayBubbleSort.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\04.SortArrayBubbleSort\obj\Debug\04.SortArrayBubbleSort.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\04.SortArrayBubbleSort\obj\Debug\04.SortArrayBubbleSort.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\04.SortArrayBubbleSort\obj\Debug\04.SortArrayBubbleSort.pdb

@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\00.TRY\bin\Debug\00.TRY.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\00.TRY\bin\Debug\00.TRY.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\00.TRY\bin\Debug\00.TRY.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\00.TRY\obj\Debug\00.TRY.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\00.TRY\obj\Debug\00.TRY.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\00.TRY\obj\Debug\00.TRY.pdb

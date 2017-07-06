@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\05.ArrayInsertionSort\bin\Debug\05.ArrayInsertionSort.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\05.ArrayInsertionSort\bin\Debug\05.ArrayInsertionSort.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\05.ArrayInsertionSort\bin\Debug\05.ArrayInsertionSort.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\05.ArrayInsertionSort\obj\Debug\05.ArrayInsertionSort.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\05.ArrayInsertionSort\obj\Debug\05.ArrayInsertionSort.pdb

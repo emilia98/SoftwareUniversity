@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\06.Winecraft\bin\Debug\06.Winecraft.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\06.Winecraft\bin\Debug\06.Winecraft.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\06.Winecraft\bin\Debug\06.Winecraft.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\06.Winecraft\obj\Debug\06.Winecraft.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\06.Winecraft\obj\Debug\06.Winecraft.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\06.Winecraft\obj\Debug\06.Winecraft.pdb

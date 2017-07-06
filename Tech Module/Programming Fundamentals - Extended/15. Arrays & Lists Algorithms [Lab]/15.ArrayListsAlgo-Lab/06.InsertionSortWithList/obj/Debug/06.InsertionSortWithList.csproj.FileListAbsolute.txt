@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\06.InsertionSortWithList\bin\Debug\06.InsertionSortWithList.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\06.InsertionSortWithList\bin\Debug\06.InsertionSortWithList.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\06.InsertionSortWithList\obj\Debug\06.InsertionSortWithList.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\06.InsertionSortWithList\obj\Debug\06.InsertionSortWithList.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\06.InsertionSortWithList\obj\Debug\06.InsertionSortWithList.pdb

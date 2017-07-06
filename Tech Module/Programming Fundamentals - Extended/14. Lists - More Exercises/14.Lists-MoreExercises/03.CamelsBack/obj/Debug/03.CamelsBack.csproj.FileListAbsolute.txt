@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\03.CamelsBack\bin\Debug\03.CamelsBack.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\03.CamelsBack\bin\Debug\03.CamelsBack.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\03.CamelsBack\bin\Debug\03.CamelsBack.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\03.CamelsBack\obj\Debug\03.CamelsBack.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\03.CamelsBack\obj\Debug\03.CamelsBack.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\03.CamelsBack\obj\Debug\03.CamelsBack.pdb

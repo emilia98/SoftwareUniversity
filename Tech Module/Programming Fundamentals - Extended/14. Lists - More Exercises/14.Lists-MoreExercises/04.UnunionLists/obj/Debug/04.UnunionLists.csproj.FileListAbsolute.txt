@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\04.UnunionLists\bin\Debug\04.UnunionLists.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\04.UnunionLists\obj\Debug\04.UnunionLists.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\04.UnunionLists\bin\Debug\04.UnunionLists.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\04.UnunionLists\bin\Debug\04.UnunionLists.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\04.UnunionLists\obj\Debug\04.UnunionLists.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\04.UnunionLists\obj\Debug\04.UnunionLists.pdb

@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\07.LargestNElements\bin\Debug\07.LargestNElements.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\07.LargestNElements\bin\Debug\07.LargestNElements.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\07.LargestNElements\bin\Debug\07.LargestNElements.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\07.LargestNElements\obj\Debug\07.LargestNElements.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\07.LargestNElements\obj\Debug\07.LargestNElements.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\15. Arrays & Lists Algorithms [Lab]\15.ArrayListsAlgo-Lab\07.LargestNElements\obj\Debug\07.LargestNElements.pdb

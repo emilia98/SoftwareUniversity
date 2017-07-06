@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\05.NoteStatistics\bin\Debug\05.NoteStatistics.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\05.NoteStatistics\bin\Debug\05.NoteStatistics.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\05.NoteStatistics\obj\Debug\05.NoteStatistics.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\05.NoteStatistics\obj\Debug\05.NoteStatistics.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\14. Lists - More Exercises\14.Lists-MoreExercises\05.NoteStatistics\obj\Debug\05.NoteStatistics.pdb
