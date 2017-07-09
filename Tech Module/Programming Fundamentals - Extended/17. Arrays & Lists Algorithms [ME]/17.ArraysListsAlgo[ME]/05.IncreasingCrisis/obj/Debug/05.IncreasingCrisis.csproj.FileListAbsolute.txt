@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\05.IncreasingCrisis\bin\Debug\05.IncreasingCrisis.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\05.IncreasingCrisis\obj\Debug\05.IncreasingCrisis.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\05.IncreasingCrisis\bin\Debug\05.IncreasingCrisis.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\05.IncreasingCrisis\bin\Debug\05.IncreasingCrisis.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\05.IncreasingCrisis\obj\Debug\05.IncreasingCrisis.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\05.IncreasingCrisis\obj\Debug\05.IncreasingCrisis.pdb

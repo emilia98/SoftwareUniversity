@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\02.AverageCharDelimiter\bin\Debug\02.AverageCharDelimiter.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\02.AverageCharDelimiter\bin\Debug\02.AverageCharDelimiter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\02.AverageCharDelimiter\bin\Debug\02.AverageCharDelimiter.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\02.AverageCharDelimiter\obj\Debug\02.AverageCharDelimiter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\02.AverageCharDelimiter\obj\Debug\02.AverageCharDelimiter.pdb

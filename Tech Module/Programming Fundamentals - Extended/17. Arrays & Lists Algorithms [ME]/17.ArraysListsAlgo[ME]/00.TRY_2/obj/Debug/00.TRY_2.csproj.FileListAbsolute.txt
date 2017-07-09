@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\00.TRY_2\bin\Debug\00.TRY_2.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\00.TRY_2\bin\Debug\00.TRY_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\00.TRY_2\bin\Debug\00.TRY_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\00.TRY_2\obj\Debug\00.TRY_2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\00.TRY_2\obj\Debug\00.TRY_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\00.TRY_2\obj\Debug\00.TRY_2.pdb

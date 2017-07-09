@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\01.RabbitHole\bin\Debug\01.RabbitHole.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\01.RabbitHole\bin\Debug\01.RabbitHole.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\01.RabbitHole\bin\Debug\01.RabbitHole.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\01.RabbitHole\obj\Debug\01.RabbitHole.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\01.RabbitHole\obj\Debug\01.RabbitHole.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\17. Arrays & Lists Algorithms [ME]\17.ArraysListsAlgo[ME]\01.RabbitHole\obj\Debug\01.RabbitHole.pdb

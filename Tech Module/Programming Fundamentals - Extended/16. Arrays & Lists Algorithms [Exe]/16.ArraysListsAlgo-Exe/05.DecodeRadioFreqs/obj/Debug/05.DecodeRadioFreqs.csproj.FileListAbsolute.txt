@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\05.DecodeRadioFreqs\bin\Debug\05.DecodeRadioFreqs.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\05.DecodeRadioFreqs\bin\Debug\05.DecodeRadioFreqs.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\05.DecodeRadioFreqs\bin\Debug\05.DecodeRadioFreqs.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\05.DecodeRadioFreqs\obj\Debug\05.DecodeRadioFreqs.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\16. Arrays & Lists Algorithms [Exe]\16.ArraysListsAlgo-Exe\05.DecodeRadioFreqs\obj\Debug\05.DecodeRadioFreqs.pdb

@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\18. Dictionaries [Lab]\18.Dictionaries-Lab\02.CountRealNumbers\bin\Debug\02.CountRealNumbers.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\18. Dictionaries [Lab]\18.Dictionaries-Lab\02.CountRealNumbers\bin\Debug\02.CountRealNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\18. Dictionaries [Lab]\18.Dictionaries-Lab\02.CountRealNumbers\bin\Debug\02.CountRealNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\18. Dictionaries [Lab]\18.Dictionaries-Lab\02.CountRealNumbers\obj\Debug\02.CountRealNumbers.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\18. Dictionaries [Lab]\18.Dictionaries-Lab\02.CountRealNumbers\obj\Debug\02.CountRealNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\18. Dictionaries [Lab]\18.Dictionaries-Lab\02.CountRealNumbers\obj\Debug\02.CountRealNumbers.pdb
