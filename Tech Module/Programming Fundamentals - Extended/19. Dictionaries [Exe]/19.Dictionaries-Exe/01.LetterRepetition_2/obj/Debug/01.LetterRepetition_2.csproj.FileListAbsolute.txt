@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\01.LetterRepetition_2\bin\Debug\01.LetterRepetition_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\01.LetterRepetition_2\bin\Debug\01.LetterRepetition_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\01.LetterRepetition_2\obj\Debug\01.LetterRepetition_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\01.LetterRepetition_2\obj\Debug\01.LetterRepetition_2.pdb

@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\05.UserLogins\bin\Debug\05.UserLogins.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\05.UserLogins\bin\Debug\05.UserLogins.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\05.UserLogins\bin\Debug\05.UserLogins.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\05.UserLogins\obj\Debug\05.UserLogins.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\05.UserLogins\obj\Debug\05.UserLogins.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\05.UserLogins\obj\Debug\05.UserLogins.pdb

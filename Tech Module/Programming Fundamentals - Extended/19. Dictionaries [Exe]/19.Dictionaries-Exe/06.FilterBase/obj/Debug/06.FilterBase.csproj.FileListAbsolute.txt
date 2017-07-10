@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\06.FilterBase\bin\Debug\06.FilterBase.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\06.FilterBase\obj\Debug\06.FilterBase.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\06.FilterBase\bin\Debug\06.FilterBase.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\06.FilterBase\bin\Debug\06.FilterBase.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\06.FilterBase\obj\Debug\06.FilterBase.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\19. Dictionaries [Exe]\19.Dictionaries-Exe\06.FilterBase\obj\Debug\06.FilterBase.pdb
