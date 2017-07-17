@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\03.RecordUniqueNames\obj\Debug\03.RecordUniqueNames.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\03.RecordUniqueNames\obj\Debug\03.RecordUniqueNames.pdb

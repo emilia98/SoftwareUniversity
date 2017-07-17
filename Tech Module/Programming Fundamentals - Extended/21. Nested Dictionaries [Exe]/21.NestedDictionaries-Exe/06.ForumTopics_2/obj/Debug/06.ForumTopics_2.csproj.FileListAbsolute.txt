@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\06.ForumTopics_2\bin\Debug\06.ForumTopics_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\06.ForumTopics_2\bin\Debug\06.ForumTopics_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\06.ForumTopics_2\obj\Debug\06.ForumTopics_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\06.ForumTopics_2\obj\Debug\06.ForumTopics_2.pdb

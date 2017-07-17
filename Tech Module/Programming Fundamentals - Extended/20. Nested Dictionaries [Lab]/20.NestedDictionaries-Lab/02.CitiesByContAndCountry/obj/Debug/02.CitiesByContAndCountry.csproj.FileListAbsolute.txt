@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\02.CitiesByContAndCountry\bin\Debug\02.CitiesByContAndCountry.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\02.CitiesByContAndCountry\bin\Debug\02.CitiesByContAndCountry.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\02.CitiesByContAndCountry\bin\Debug\02.CitiesByContAndCountry.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\02.CitiesByContAndCountry\obj\Debug\02.CitiesByContAndCountry.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\02.CitiesByContAndCountry\obj\Debug\02.CitiesByContAndCountry.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\02.CitiesByContAndCountry\obj\Debug\02.CitiesByContAndCountry.pdb

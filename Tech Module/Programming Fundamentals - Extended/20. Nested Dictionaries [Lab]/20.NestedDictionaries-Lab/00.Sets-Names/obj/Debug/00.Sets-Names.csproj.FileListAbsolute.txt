@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.Sets-Names\bin\Debug\00.Sets-Names.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.Sets-Names\bin\Debug\00.Sets-Names.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.Sets-Names\bin\Debug\00.Sets-Names.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.Sets-Names\obj\Debug\00.Sets-Names.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.Sets-Names\obj\Debug\00.Sets-Names.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.Sets-Names\obj\Debug\00.Sets-Names.pdb

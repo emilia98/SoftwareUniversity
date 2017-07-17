@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-ContCounCap\bin\Debug\00.NestDic-ContCounCap.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-ContCounCap\bin\Debug\00.NestDic-ContCounCap.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-ContCounCap\bin\Debug\00.NestDic-ContCounCap.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-ContCounCap\obj\Debug\00.NestDic-ContCounCap.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-ContCounCap\obj\Debug\00.NestDic-ContCounCap.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-ContCounCap\obj\Debug\00.NestDic-ContCounCap.pdb

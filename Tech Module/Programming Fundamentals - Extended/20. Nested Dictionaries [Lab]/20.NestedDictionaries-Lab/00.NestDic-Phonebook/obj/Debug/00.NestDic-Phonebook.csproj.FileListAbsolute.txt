@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-Phonebook\bin\Debug\00.NestDic-Phonebook.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-Phonebook\bin\Debug\00.NestDic-Phonebook.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-Phonebook\obj\Debug\00.NestDic-Phonebook.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-Phonebook\obj\Debug\00.NestDic-Phonebook.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\00.NestDic-Phonebook\obj\Debug\00.NestDic-Phonebook.pdb

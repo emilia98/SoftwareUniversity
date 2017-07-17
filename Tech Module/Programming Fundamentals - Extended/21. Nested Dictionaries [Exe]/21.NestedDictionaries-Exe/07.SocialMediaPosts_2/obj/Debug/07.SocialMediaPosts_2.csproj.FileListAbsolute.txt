@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\07.SocialMediaPosts_2\bin\Debug\07.SocialMediaPosts_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\07.SocialMediaPosts_2\bin\Debug\07.SocialMediaPosts_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\07.SocialMediaPosts_2\obj\Debug\07.SocialMediaPosts_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\07.SocialMediaPosts_2\obj\Debug\07.SocialMediaPosts_2.pdb

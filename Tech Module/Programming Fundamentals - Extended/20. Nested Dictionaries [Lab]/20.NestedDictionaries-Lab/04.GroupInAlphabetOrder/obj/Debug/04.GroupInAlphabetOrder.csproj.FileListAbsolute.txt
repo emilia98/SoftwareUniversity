@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\04.GroupInAlphabetOrder\bin\Debug\04.GroupInAlphabetOrder.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\04.GroupInAlphabetOrder\bin\Debug\04.GroupInAlphabetOrder.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\04.GroupInAlphabetOrder\bin\Debug\04.GroupInAlphabetOrder.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\04.GroupInAlphabetOrder\obj\Debug\04.GroupInAlphabetOrder.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\04.GroupInAlphabetOrder\obj\Debug\04.GroupInAlphabetOrder.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\20. Nested Dictionaries [Lab]\20.NestedDictionaries-Lab\04.GroupInAlphabetOrder\obj\Debug\04.GroupInAlphabetOrder.pdb

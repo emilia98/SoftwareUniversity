@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\02.KeyKeyValueValue\bin\Debug\02.KeyKeyValueValue.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\02.KeyKeyValueValue\bin\Debug\02.KeyKeyValueValue.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\02.KeyKeyValueValue\bin\Debug\02.KeyKeyValueValue.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\02.KeyKeyValueValue\obj\Debug\02.KeyKeyValueValue.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\02.KeyKeyValueValue\obj\Debug\02.KeyKeyValueValue.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\21. Nested Dictionaries [Exe]\21.NestedDictionaries-Exe\02.KeyKeyValueValue\obj\Debug\02.KeyKeyValueValue.pdb
