@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\01.FindTheLetter\bin\Debug\01.FindTheLetter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\01.FindTheLetter\bin\Debug\01.FindTheLetter.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\01.FindTheLetter\obj\Debug\01.FindTheLetter.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\01.FindTheLetter\obj\Debug\01.FindTheLetter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\01.FindTheLetter\obj\Debug\01.FindTheLetter.pdb

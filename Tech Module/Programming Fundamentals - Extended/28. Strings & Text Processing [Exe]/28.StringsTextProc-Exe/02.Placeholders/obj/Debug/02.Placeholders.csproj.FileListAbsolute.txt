@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\02.Placeholders\bin\Debug\02.Placeholders.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\02.Placeholders\bin\Debug\02.Placeholders.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\02.Placeholders\obj\Debug\02.Placeholders.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\02.Placeholders\obj\Debug\02.Placeholders.pdb

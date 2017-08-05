@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\03.JSONStringify\bin\Debug\03.JSONStringify.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\03.JSONStringify\bin\Debug\03.JSONStringify.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\03.JSONStringify\obj\Debug\03.JSONStringify.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\03.JSONStringify\obj\Debug\03.JSONStringify.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\03.JSONStringify\obj\Debug\03.JSONStringify.csprojResolveAssemblyReference.cache

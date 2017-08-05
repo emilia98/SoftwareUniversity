@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\03.TextFilter\bin\Debug\03.TextFilter.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\03.TextFilter\bin\Debug\03.TextFilter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\03.TextFilter\bin\Debug\03.TextFilter.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\03.TextFilter\obj\Debug\03.TextFilter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\03.TextFilter\obj\Debug\03.TextFilter.pdb

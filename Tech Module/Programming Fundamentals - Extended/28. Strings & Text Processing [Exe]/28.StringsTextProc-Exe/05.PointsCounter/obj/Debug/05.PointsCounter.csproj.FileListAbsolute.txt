@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\05.PointsCounter\bin\Debug\05.PointsCounter.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\05.PointsCounter\bin\Debug\05.PointsCounter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\05.PointsCounter\bin\Debug\05.PointsCounter.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\05.PointsCounter\obj\Debug\05.PointsCounter.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\05.PointsCounter\obj\Debug\05.PointsCounter.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\28. Strings & Text Processing [Exe]\28.StringsTextProc-Exe\05.PointsCounter\obj\Debug\05.PointsCounter.pdb

@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\01.ReverseString_2\bin\Debug\01.ReverseString_2.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\01.ReverseString_2\bin\Debug\01.ReverseString_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\01.ReverseString_2\bin\Debug\01.ReverseString_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\01.ReverseString_2\obj\Debug\01.ReverseString_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\01.ReverseString_2\obj\Debug\01.ReverseString_2.pdb

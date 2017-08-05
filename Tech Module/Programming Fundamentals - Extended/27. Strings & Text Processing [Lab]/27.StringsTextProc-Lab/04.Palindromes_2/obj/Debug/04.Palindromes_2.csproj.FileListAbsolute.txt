@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\04.Palindromes_2\bin\Debug\04.Palindromes_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\04.Palindromes_2\bin\Debug\04.Palindromes_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\04.Palindromes_2\obj\Debug\04.Palindromes_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals - Extended\27. Strings & Text Processing [Lab]\27.StringsTextProc-Lab\04.Palindromes_2\obj\Debug\04.Palindromes_2.pdb
