@@ -11,4 +11,5 @@ function triangleOf55Stars(){
     console.log("**********");
 }
 
-triangleOf55Stars();
+// Uncomment to test:
+// triangleOf55Stars();

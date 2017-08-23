@@ -7,4 +7,5 @@ function triangleOf55Stars(){
     }
 }
 
-triangleOf55Stars();
+// Uncomment to test:
+// triangleOf55Stars();

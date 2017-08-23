@@ -2,4 +2,5 @@ function helloSoftUni() {
     console.log("Hello SoftUni!");
 }
 
-//helloSoftUni();
+// Uncomment to test:
+// helloSoftUni();

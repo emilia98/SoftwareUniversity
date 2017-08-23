@@ -4,4 +4,5 @@ function nums1To20(){
     }
 }
 
-nums1To20();
+//Uncomment to test:
+//nums1To20();

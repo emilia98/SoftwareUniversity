@@ -21,4 +21,5 @@ function nums1To20(){
     console.log(20);
 }
 
-nums1To20();
+//Uncomment to test:
+// nums1To20();
