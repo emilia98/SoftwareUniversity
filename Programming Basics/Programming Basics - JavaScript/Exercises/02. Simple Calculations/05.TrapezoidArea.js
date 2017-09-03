@@ -7,5 +7,7 @@ function calculateTrapezoidArea([arg1, arg2, arg3]){
     console.log("Trapezoid area = " + area);
 }
 
+/* Uncomment to test
 calculateTrapezoidArea(["3","9","12"]);
 calculateTrapezoidArea(["8","13","7"]);
+*/

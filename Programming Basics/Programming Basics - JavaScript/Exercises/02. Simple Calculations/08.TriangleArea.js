@@ -6,8 +6,10 @@ function calculateTriangleArea([arg1,arg2]){
     console.log("Triangle area = " + area.toFixed(2));
 }
 
+/* Uncomment to test:
 calculateTriangleArea(["20","30"]);
 calculateTriangleArea(["15","35"]);
 calculateTriangleArea(["7.75","8.45"]);
 calculateTriangleArea(["1.23456","4.56789"]);
+*/
 

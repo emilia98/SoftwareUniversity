@@ -4,6 +4,8 @@ function convertInchToCm([arg1]){
     console.log("centimeters = " + centimeters);
 }
 
+/* Uncomment to test
 convertInchToCm(["10"]);
 convertInchToCm(["25"]);
 convertInchToCm(["2.5"]);
+    */

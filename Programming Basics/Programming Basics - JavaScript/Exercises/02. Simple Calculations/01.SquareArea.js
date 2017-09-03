@@ -4,5 +4,6 @@ function calculateArea([arg1]){
     console.log("Square = " + area);
 }
 
-calculateArea(["5"]);
-calculateArea(["12"]);
+//Uncomment to test
+//calculateArea(["5"]);
+//calculateArea(["12"]);

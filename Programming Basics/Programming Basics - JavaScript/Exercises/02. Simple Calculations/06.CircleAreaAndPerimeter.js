@@ -7,5 +7,7 @@ function calculateCircle([arg1]){
     console.log("Perimeter = " + perimeter);
 }
 
+/* Uncomment to test:
 calculateCircle(["3"]);
 calculateCircle(["10"]);
+    */
