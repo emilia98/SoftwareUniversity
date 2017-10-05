@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="styles/contact-us-form.css" type="text/css">
+</head>
+<body>
+        <h1>Contact Us</h1>
+
+        <form>
+            <div class="field">
+                <div class="label">
+                    <label for="firstName">First Name:</label>
+                </div>
+                <input type="text" name="firstName" id = "firstName" value="">
+            </div>
+
+            <div class="field">
+                <div class="label">
+                    <label for="lastName">Last Name:</label>
+                </div>
+                <input type="text" name="lastName" id="lastName" value="">
+            </div>
+
+            <div class="field">
+                <div class="label">
+                    <label for="email">Email:</label>
+                </div>
+                <input type="email" name="email" id = "email" value="">
+            </div>
+
+            <div class="field">
+                <span class="label">Town:</span>
+                <select id="town">
+                    <option value="1">Sofia</option>
+                    <option value="2">Gabrovo</option>
+                    <option value="3">Plovdiv</option>
+                </select>
+            </div>
+
+            <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
