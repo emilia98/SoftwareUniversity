@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers\bin\Debug\05.SortNumbers.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers\bin\Debug\05.SortNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers\bin\Debug\05.SortNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers\obj\Debug\05.SortNumbers.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers\obj\Debug\05.SortNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers\obj\Debug\05.SortNumbers.pdb

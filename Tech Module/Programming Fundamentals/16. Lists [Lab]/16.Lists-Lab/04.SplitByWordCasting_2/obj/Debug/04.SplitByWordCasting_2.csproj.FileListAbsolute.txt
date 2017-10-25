@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\04.SplitByWordCasting_2\bin\Debug\04.SplitByWordCasting_2.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\04.SplitByWordCasting_2\bin\Debug\04.SplitByWordCasting_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\04.SplitByWordCasting_2\bin\Debug\04.SplitByWordCasting_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\04.SplitByWordCasting_2\obj\Debug\04.SplitByWordCasting_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\04.SplitByWordCasting_2\obj\Debug\04.SplitByWordCasting_2.pdb

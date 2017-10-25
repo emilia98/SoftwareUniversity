@@ -1,0 +1,7 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_3\bin\Debug\07.CountNumbers_3.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_3\bin\Debug\07.CountNumbers_3.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_3\bin\Debug\07.CountNumbers_3.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_3\obj\Debug\07.CountNumbers_3.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_3\obj\Debug\07.CountNumbers_3.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_3\obj\Debug\07.CountNumbers_3.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_3\obj\Debug\07.CountNumbers_3.pdb

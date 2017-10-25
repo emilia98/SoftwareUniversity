@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers_2\bin\Debug\05.SortNumbers_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers_2\bin\Debug\05.SortNumbers_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers_2\obj\Debug\05.SortNumbers_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\05.SortNumbers_2\obj\Debug\05.SortNumbers_2.pdb
