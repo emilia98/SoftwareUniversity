@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\09.ExtractMiddleElements\bin\Debug\09.ExtractMiddleElements.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\09.ExtractMiddleElements\bin\Debug\09.ExtractMiddleElements.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\09.ExtractMiddleElements\obj\Debug\09.ExtractMiddleElements.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\09.ExtractMiddleElements\obj\Debug\09.ExtractMiddleElements.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\09.ExtractMiddleElements\obj\Debug\09.ExtractMiddleElements.csproj.CoreCompileInputs.cache

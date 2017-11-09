@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\04.TripleSum_3\bin\Debug\04.TripleSum_3.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\04.TripleSum_3\bin\Debug\04.TripleSum_3.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\04.TripleSum_3\obj\Debug\04.TripleSum_3.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\04.TripleSum_3\obj\Debug\04.TripleSum_3.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\04.TripleSum_3\obj\Debug\04.TripleSum_3.pdb

@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\06.ReverseAnArrayOfStrings\bin\Debug\06.ReverseAnArrayOfStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\06.ReverseAnArrayOfStrings\bin\Debug\06.ReverseAnArrayOfStrings.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\06.ReverseAnArrayOfStrings\obj\Debug\06.ReverseAnArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\06.ReverseAnArrayOfStrings\obj\Debug\06.ReverseAnArrayOfStrings.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\06.ReverseAnArrayOfStrings\obj\Debug\06.ReverseAnArrayOfStrings.pdb

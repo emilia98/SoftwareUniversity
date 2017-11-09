@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.csproj.CoreCompileInputs.cache

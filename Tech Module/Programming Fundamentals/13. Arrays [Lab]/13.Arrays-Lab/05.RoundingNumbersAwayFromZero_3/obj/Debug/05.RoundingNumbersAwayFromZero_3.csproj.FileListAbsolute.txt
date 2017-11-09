@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero_3\bin\Debug\05.RoundingNumbersAwayFromZero_3.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero_3\bin\Debug\05.RoundingNumbersAwayFromZero_3.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero_3\obj\Debug\05.RoundingNumbersAwayFromZero_3.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero_3\obj\Debug\05.RoundingNumbersAwayFromZero_3.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero_3\obj\Debug\05.RoundingNumbersAwayFromZero_3.pdb

@@ -1,0 +1,7 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\PF - JavaScript\Tests - JavaScript\ArraysTest_1\bin\Debug\ArraysTest_1.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\PF - JavaScript\Tests - JavaScript\ArraysTest_1\bin\Debug\ArraysTest_1.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\PF - JavaScript\Tests - JavaScript\ArraysTest_1\bin\Debug\ArraysTest_1.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\PF - JavaScript\Tests - JavaScript\ArraysTest_1\obj\Debug\ArraysTest_1.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\PF - JavaScript\Tests - JavaScript\ArraysTest_1\obj\Debug\ArraysTest_1.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\PF - JavaScript\Tests - JavaScript\ArraysTest_1\obj\Debug\ArraysTest_1.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\PF - JavaScript\Tests - JavaScript\ArraysTest_1\obj\Debug\ArraysTest_1.pdb

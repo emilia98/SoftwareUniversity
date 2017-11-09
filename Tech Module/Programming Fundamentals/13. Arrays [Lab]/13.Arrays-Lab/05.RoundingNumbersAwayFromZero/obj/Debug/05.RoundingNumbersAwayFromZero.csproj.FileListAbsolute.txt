@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero\obj\Debug\05.RoundingNumbersAwayFromZero.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero\bin\Debug\05.RoundingNumbersAwayFromZero.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero\bin\Debug\05.RoundingNumbersAwayFromZero.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero\obj\Debug\05.RoundingNumbersAwayFromZero.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero\obj\Debug\05.RoundingNumbersAwayFromZero.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\05.RoundingNumbersAwayFromZero\obj\Debug\05.RoundingNumbersAwayFromZero.csproj.CoreCompileInputs.cache

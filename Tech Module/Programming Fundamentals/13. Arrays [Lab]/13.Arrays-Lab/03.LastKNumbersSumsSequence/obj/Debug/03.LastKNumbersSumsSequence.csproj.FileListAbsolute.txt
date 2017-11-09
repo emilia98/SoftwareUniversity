@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\03.LastKNumbersSumsSequence\bin\Debug\03.LastKNumbersSumsSequence.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\03.LastKNumbersSumsSequence\bin\Debug\03.LastKNumbersSumsSequence.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\03.LastKNumbersSumsSequence\obj\Debug\03.LastKNumbersSumsSequence.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\03.LastKNumbersSumsSequence\obj\Debug\03.LastKNumbersSumsSequence.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\03.LastKNumbersSumsSequence\obj\Debug\03.LastKNumbersSumsSequence.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\13. Arrays [Lab]\13.Arrays-Lab\03.LastKNumbersSumsSequence\obj\Debug\03.LastKNumbersSumsSequence.pdb
