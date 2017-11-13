@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\07.MaxSequenceOfIncreasingElements\bin\Debug\07.MaxSequenceOfIncreasingElements.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\07.MaxSequenceOfIncreasingElements\bin\Debug\07.MaxSequenceOfIncreasingElements.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.pdb

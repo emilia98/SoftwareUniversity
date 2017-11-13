@@ -1,0 +1,7 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\02.RotateAndSum\bin\Debug\02.RotateAndSum.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\02.RotateAndSum\obj\Debug\02.RotateAndSum.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\02.RotateAndSum\obj\Debug\02.RotateAndSum.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\02.RotateAndSum\obj\Debug\02.RotateAndSum.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\02.RotateAndSum\obj\Debug\02.RotateAndSum.pdb

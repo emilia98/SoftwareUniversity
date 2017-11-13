@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\03.FoldAndSum_2\bin\Debug\03.FoldAndSum_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\03.FoldAndSum_2\bin\Debug\03.FoldAndSum_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\03.FoldAndSum_2\obj\Debug\03.FoldAndSum_2.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\03.FoldAndSum_2\obj\Debug\03.FoldAndSum_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\03.FoldAndSum_2\obj\Debug\03.FoldAndSum_2.pdb

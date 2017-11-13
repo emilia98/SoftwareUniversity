@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\10.PairsByDifference\bin\Debug\10.PairsByDifference.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\10.PairsByDifference\bin\Debug\10.PairsByDifference.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\10.PairsByDifference\obj\Debug\10.PairsByDifference.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\10.PairsByDifference\obj\Debug\10.PairsByDifference.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\10.PairsByDifference\obj\Debug\10.PairsByDifference.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\10.PairsByDifference\obj\Debug\10.PairsByDifference.pdb

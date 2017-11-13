@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\04.SieveOfEratosthenes\bin\Debug\04.SieveOfEratosthenes.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\04.SieveOfEratosthenes\bin\Debug\04.SieveOfEratosthenes.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\04.SieveOfEratosthenes\obj\Debug\04.SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\04.SieveOfEratosthenes\obj\Debug\04.SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\04.SieveOfEratosthenes\obj\Debug\04.SieveOfEratosthenes.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\14. Arrays [Exercises]\14.Arrays-Exe\04.SieveOfEratosthenes\obj\Debug\04.SieveOfEratosthenes.pdb
