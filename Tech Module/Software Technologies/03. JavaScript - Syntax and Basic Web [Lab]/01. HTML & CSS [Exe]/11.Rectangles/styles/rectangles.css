@@ -1,0 +1,19 @@
+div.blue{
+    border: 2px dotted blue;
+}
+
+div.red{
+    border: 1px dashed red;
+}
+
+div.green{
+    border: 1px solid green;
+    text-align: center;
+    font-size: 20px;
+}
+
+div{
+    padding: 10px;
+    border-radius: 5px;
+}
+
