@@ -1,0 +1,21 @@
+<!-- Your View Engine is 'hbs', so cob\vert all the .hbs files
+     to .html files-->
+<div>
+    Hello, my name is {{name}}.
+</div>
+
+<div>
+    GRADES:
+    <ul>
+        {{#each grades}}
+            <li> {{this}}</li>
+        {{/each}}
+    </ul>
+</div>
+
+<div>
+    {{#if isAdmin}}
+        <p>{{name}} is ADMIN:</p>
+        <input type="button" value="edit" name="btn-edit"/>
+    {{/if}}
+</div>
