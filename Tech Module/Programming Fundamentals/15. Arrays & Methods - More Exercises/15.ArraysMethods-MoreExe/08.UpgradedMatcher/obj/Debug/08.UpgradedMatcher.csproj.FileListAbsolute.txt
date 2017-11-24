@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\08.UpgradedMatcher\bin\Debug\08.UpgradedMatcher.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\08.UpgradedMatcher\bin\Debug\08.UpgradedMatcher.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.csprojResolveAssemblyReference.cache

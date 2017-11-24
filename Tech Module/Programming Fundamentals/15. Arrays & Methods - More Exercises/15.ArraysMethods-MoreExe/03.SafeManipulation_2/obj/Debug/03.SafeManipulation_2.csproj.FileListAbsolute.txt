@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\03.SafeManipulation_2\bin\Debug\03.SafeManipulation_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\03.SafeManipulation_2\bin\Debug\03.SafeManipulation_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\03.SafeManipulation_2\obj\Debug\03.SafeManipulation_2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\03.SafeManipulation_2\obj\Debug\03.SafeManipulation_2.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\03.SafeManipulation_2\obj\Debug\03.SafeManipulation_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\03.SafeManipulation_2\obj\Debug\03.SafeManipulation_2.pdb

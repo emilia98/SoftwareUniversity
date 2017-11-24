@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\06.Heists\obj\Debug\06.Heists.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\06.Heists\obj\Debug\06.Heists.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\06.Heists\bin\Debug\06.Heists.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\06.Heists\bin\Debug\06.Heists.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\06.Heists\obj\Debug\06.Heists.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\06.Heists\obj\Debug\06.Heists.pdb

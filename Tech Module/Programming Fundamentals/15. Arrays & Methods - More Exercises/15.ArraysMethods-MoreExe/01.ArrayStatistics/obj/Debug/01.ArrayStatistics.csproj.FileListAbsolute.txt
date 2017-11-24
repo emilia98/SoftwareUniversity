@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\01.ArrayStatistics\bin\Debug\01.ArrayStatistics.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\01.ArrayStatistics\bin\Debug\01.ArrayStatistics.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\01.ArrayStatistics\obj\Debug\01.ArrayStatistics.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\01.ArrayStatistics\obj\Debug\01.ArrayStatistics.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\01.ArrayStatistics\obj\Debug\01.ArrayStatistics.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\15. Arrays & Methods - More Exercises\15.ArraysMethods-MoreExe\01.ArrayStatistics\obj\Debug\01.ArrayStatistics.csprojResolveAssemblyReference.cache
