@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_5\bin\Debug\07.CountNumbers_5.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_5\bin\Debug\07.CountNumbers_5.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_5\obj\Debug\07.CountNumbers_5.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_5\obj\Debug\07.CountNumbers_5.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\16. Lists [Lab]\16.Lists-Lab\07.CountNumbers_5\obj\Debug\07.CountNumbers_5.pdb
