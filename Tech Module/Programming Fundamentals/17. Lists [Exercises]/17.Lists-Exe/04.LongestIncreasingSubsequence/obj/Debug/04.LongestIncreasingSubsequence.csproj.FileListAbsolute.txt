@@ -1,0 +1,7 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\04.LongestIncreasingSubsequence\bin\Debug\04.LongestIncreasingSubsequence.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\04.LongestIncreasingSubsequence\bin\Debug\04.LongestIncreasingSubsequence.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\04.LongestIncreasingSubsequence\bin\Debug\04.LongestIncreasingSubsequence.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\04.LongestIncreasingSubsequence\obj\Debug\04.LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\04.LongestIncreasingSubsequence\obj\Debug\04.LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\04.LongestIncreasingSubsequence\obj\Debug\04.LongestIncreasingSubsequence.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\04.LongestIncreasingSubsequence\obj\Debug\04.LongestIncreasingSubsequence.pdb

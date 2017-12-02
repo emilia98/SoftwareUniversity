@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\07.BombNumbers\bin\Debug\07.BombNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\07.BombNumbers\bin\Debug\07.BombNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\07.BombNumbers\obj\Debug\07.BombNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\07.BombNumbers\obj\Debug\07.BombNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\07.BombNumbers\obj\Debug\07.BombNumbers.pdb

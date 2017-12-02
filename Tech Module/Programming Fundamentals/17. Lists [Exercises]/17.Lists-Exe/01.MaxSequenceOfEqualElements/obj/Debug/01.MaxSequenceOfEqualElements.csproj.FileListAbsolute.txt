@@ -1,0 +1,7 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.pdb

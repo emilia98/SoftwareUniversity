@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\06.SumReversedNumbers_2\bin\Debug\06.SumReversedNumbers_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\06.SumReversedNumbers_2\bin\Debug\06.SumReversedNumbers_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\06.SumReversedNumbers_2\obj\Debug\06.SumReversedNumbers_2.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\06.SumReversedNumbers_2\obj\Debug\06.SumReversedNumbers_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\06.SumReversedNumbers_2\obj\Debug\06.SumReversedNumbers_2.pdb

@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\02.ChangeList\bin\Debug\02.ChangeList.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\02.ChangeList\bin\Debug\02.ChangeList.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\02.ChangeList\obj\Debug\02.ChangeList.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\02.ChangeList\obj\Debug\02.ChangeList.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\02.ChangeList\obj\Debug\02.ChangeList.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\02.ChangeList\obj\Debug\02.ChangeList.pdb

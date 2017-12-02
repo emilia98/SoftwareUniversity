@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\03.SearchForANumber_2\bin\Debug\03.SearchForANumber_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\03.SearchForANumber_2\bin\Debug\03.SearchForANumber_2.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\03.SearchForANumber_2\obj\Debug\03.SearchForANumber_2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\03.SearchForANumber_2\obj\Debug\03.SearchForANumber_2.csproj.CoreCompileInputs.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\03.SearchForANumber_2\obj\Debug\03.SearchForANumber_2.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\17. Lists [Exercises]\17.Lists-Exe\03.SearchForANumber_2\obj\Debug\03.SearchForANumber_2.pdb

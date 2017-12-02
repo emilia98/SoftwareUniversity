@@ -3,3 +3,4 @@ Completed Contests:
 2) Arrays - Exercises
 3) Arrays & Methods - More Exercises
 4) Lists - Lab
+5) Lists - Exercises
