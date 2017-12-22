@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <title>Create User Page</title>
+    <link rel="stylesheet" type="text/css" href="./styles.css" />
+</head>
+<body>
+    <h1 th:text="|Hello, ${username}|"></h1>
+    <form th:method="POST">
+        <input type="text" name="firstName" placeholder="First Name" />
+        <input type="text" name="lastName" placeholder="Last Name" />
+        <input type="number" name="age" placeholder="Age" />
+        <input type="submit" value="Submit" />
+    </form>
+    <a href="/" class="button">Back Home</a>
+<a href=""></a>
+</body>
+</html>

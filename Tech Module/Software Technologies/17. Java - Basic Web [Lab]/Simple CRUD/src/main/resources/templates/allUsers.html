@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <title>Show All Users</title>
+    <link rel="stylesheet" type="text/css" href="./styles.css" />
+</head>
+<body>
+    <h1 th:text="|Hello, ${username}|"></h1>
+    <table>
+        <thead>
+            <tr>
+                <th>User ID</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th class="btn">Read</th>
+                <th class="btn">Update</th>
+                <th class="btn">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="user : ${allUsers}">
+                <td th:text="${user.id}"></td>
+                <td th:text="${user.firstName}"></td>
+                <td th:text="${user.lastName}"></td>
+                <td class="btn">
+                    <a th:href="@{/read(id = ${user.id})}" class="button">
+                        <span>Read</span>
+                    </a>
+                </td>
+                <td class="btn">
+                    <a th:href="@{/update(id = ${user.id})}" class="button">
+                        <span>Update</span>
+                    </a>
+                </td>
+
+
+                <td class="btn">
+                    <form th:method="POST" th:action="@{/delete}">
+                        <input type="hidden" name="id" th:value="${user.id}" />
+                        <input type="submit" th:value="Delete" class="button"/>
+                    </form>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <a href="/" class="button">Back Home</a>
+</body>
+</html>

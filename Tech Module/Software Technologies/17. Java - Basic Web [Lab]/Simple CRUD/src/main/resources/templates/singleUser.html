@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <title>Create User Page</title>
+    <link rel="stylesheet" type="text/css" href="./styles.css" />
+</head>
+<body>
+    <h1 th:text="|Hello, ${username}|"></h1>
+    <div>
+        <span class="label">First Name: </span>
+        <span th:text="${user.firstName}"></span>
+    </div>
+    <div>
+        <span class="label">Last Name: </span>
+        <span th:text="${user.lastName}"></span>
+    </div>
+    <div>
+        <span class="label">Age: </span>
+        <span th:text="${user.age}"></span>
+    </div>
+    <a href="/" class="button">Back Home</a>
+<a href=""></a>
+</body>
+</html>
