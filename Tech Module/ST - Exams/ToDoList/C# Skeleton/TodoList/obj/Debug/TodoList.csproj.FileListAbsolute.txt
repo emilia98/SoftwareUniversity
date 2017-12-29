@@ -1,0 +1,142 @@
+C:\Projects\C# Skeleton\TodoList\bin\ApplicationInsights.config
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\csc.exe
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\csc.exe.config
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\csc.rsp
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\csi.exe
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\csi.rsp
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\System.AppContext.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\vbc.exe
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\vbc.exe.config
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\vbc.rsp
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\VBCSCompiler.exe
+C:\Projects\C# Skeleton\TodoList\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\C# Skeleton\TodoList\bin\TodoList.dll.config
+C:\Projects\C# Skeleton\TodoList\bin\TodoList.dll
+C:\Projects\C# Skeleton\TodoList\bin\TodoList.pdb
+C:\Projects\C# Skeleton\TodoList\bin\Antlr3.Runtime.dll
+C:\Projects\C# Skeleton\TodoList\bin\EntityFramework.dll
+C:\Projects\C# Skeleton\TodoList\bin\EntityFramework.SqlServer.dll
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.Web.dll
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\C# Skeleton\TodoList\bin\Newtonsoft.Json.dll
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.Helpers.dll
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.Mvc.dll
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.Optimization.dll
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.Razor.dll
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.WebPages.dll
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.WebPages.Razor.dll
+C:\Projects\C# Skeleton\TodoList\bin\WebGrease.dll
+C:\Projects\C# Skeleton\TodoList\bin\EntityFramework.xml
+C:\Projects\C# Skeleton\TodoList\bin\EntityFramework.SqlServer.xml
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.Helpers.xml
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.Mvc.xml
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.Optimization.xml
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.Razor.xml
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.WebPages.xml
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\C# Skeleton\TodoList\bin\System.Web.WebPages.Razor.xml
+C:\Projects\C# Skeleton\TodoList\bin\Antlr3.Runtime.pdb
+C:\Projects\C# Skeleton\TodoList\bin\Newtonsoft.Json.xml
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\C# Skeleton\TodoList\bin\Microsoft.AI.Web.xml
+C:\Projects\C# Skeleton\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Projects\C# Skeleton\TodoList\obj\Debug\TodoList.dll
+C:\Projects\C# Skeleton\TodoList\obj\Debug\TodoList.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\ApplicationInsights.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\csc.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\csc.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\csc.rsp
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\csi.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\csi.rsp
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\System.AppContext.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\System.Collections.Immutable.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\System.IO.FileSystem.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\System.Reflection.Metadata.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\vbc.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\vbc.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\vbc.rsp
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\VBCSCompiler.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\roslyn\VBCSCompiler.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\TodoList.dll.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\TodoList.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\TodoList.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Antlr3.Runtime.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\EntityFramework.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\EntityFramework.SqlServer.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.Web.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Newtonsoft.Json.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.Helpers.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.Mvc.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.Optimization.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.Razor.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.WebPages.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\WebGrease.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\EntityFramework.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\EntityFramework.SqlServer.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.Helpers.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.Mvc.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.Optimization.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.Razor.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.WebPages.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Antlr3.Runtime.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Newtonsoft.Json.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\bin\Microsoft.AI.Web.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\obj\Debug\TodoList.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\ToDoList\C# Skeleton\TodoList\obj\Debug\TodoList.pdb
