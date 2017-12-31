@@ -1,0 +1,212 @@
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\ApplicationInsights.config
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\csc.exe
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\csc.exe.config
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\csc.rsp
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\csi.exe
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\csi.rsp
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\System.AppContext.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\System.Collections.Immutable.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\System.IO.FileSystem.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\System.Reflection.Metadata.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\vbc.exe
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\vbc.exe.config
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\vbc.rsp
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\VBCSCompiler.exe
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\roslyn\VBCSCompiler.exe.config
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\AnimeList.dll.config
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\AnimeList.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\AnimeList.pdb
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Antlr3.Runtime.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\EntityFramework.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\EntityFramework.SqlServer.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.Agent.Intercept.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.DependencyCollector.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.Web.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.WindowsServer.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.ApplicationInsights.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.Web.Infrastructure.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Newtonsoft.Json.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.Helpers.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.Mvc.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.Optimization.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.Razor.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.WebPages.Deployment.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.WebPages.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.WebPages.Razor.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\WebGrease.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\EntityFramework.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\EntityFramework.SqlServer.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.Helpers.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.Mvc.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.Optimization.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.Razor.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.WebPages.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.WebPages.Deployment.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\System.Web.WebPages.Razor.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Antlr3.Runtime.pdb
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Newtonsoft.Json.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.ApplicationInsights.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.DependencyCollector.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.WindowsServer.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\bin\Microsoft.AI.Web.xml
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\obj\Debug\AnimeList.dll
+F:\00. Work\04. May-2017\Software-Technologies-Retake-Exam-05-09-2017\Skeletons\C# Solution\AnimeList\obj\Debug\AnimeList.pdb
+C:\AnimeList\C# Solution\AnimeList\bin\ApplicationInsights.config
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\csc.exe
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\csc.exe.config
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\csc.rsp
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\csi.exe
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\csi.rsp
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\System.AppContext.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\System.Collections.Immutable.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\System.IO.FileSystem.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\System.Reflection.Metadata.dll
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\vbc.exe
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\vbc.exe.config
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\vbc.rsp
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\VBCSCompiler.exe
+C:\AnimeList\C# Solution\AnimeList\bin\roslyn\VBCSCompiler.exe.config
+C:\AnimeList\C# Solution\AnimeList\bin\AnimeList.dll.config
+C:\AnimeList\C# Solution\AnimeList\bin\AnimeList.dll
+C:\AnimeList\C# Solution\AnimeList\bin\AnimeList.pdb
+C:\AnimeList\C# Solution\AnimeList\bin\Antlr3.Runtime.dll
+C:\AnimeList\C# Solution\AnimeList\bin\EntityFramework.dll
+C:\AnimeList\C# Solution\AnimeList\bin\EntityFramework.SqlServer.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.DependencyCollector.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.Web.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.WindowsServer.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.ApplicationInsights.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.Web.Infrastructure.dll
+C:\AnimeList\C# Solution\AnimeList\bin\Newtonsoft.Json.dll
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.Helpers.dll
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.Mvc.dll
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.Optimization.dll
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.Razor.dll
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.Deployment.dll
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.dll
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.Razor.dll
+C:\AnimeList\C# Solution\AnimeList\bin\WebGrease.dll
+C:\AnimeList\C# Solution\AnimeList\bin\EntityFramework.xml
+C:\AnimeList\C# Solution\AnimeList\bin\EntityFramework.SqlServer.xml
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.Helpers.xml
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.Mvc.xml
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.Optimization.xml
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.Razor.xml
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.xml
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.Deployment.xml
+C:\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.Razor.xml
+C:\AnimeList\C# Solution\AnimeList\bin\Antlr3.Runtime.pdb
+C:\AnimeList\C# Solution\AnimeList\bin\Newtonsoft.Json.xml
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.ApplicationInsights.xml
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.DependencyCollector.xml
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.WindowsServer.xml
+C:\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.Web.xml
+C:\AnimeList\C# Solution\AnimeList\obj\Debug\AnimeList.csprojResolveAssemblyReference.cache
+C:\AnimeList\C# Solution\AnimeList\obj\Debug\AnimeList.dll
+C:\AnimeList\C# Solution\AnimeList\obj\Debug\AnimeList.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\ApplicationInsights.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\csc.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\csc.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\csc.rsp
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\csi.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\csi.rsp
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\System.AppContext.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\System.Collections.Immutable.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\System.IO.FileSystem.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\System.Reflection.Metadata.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\vbc.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\vbc.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\vbc.rsp
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\VBCSCompiler.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\roslyn\VBCSCompiler.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\AnimeList.dll.config
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\AnimeList.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\AnimeList.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Antlr3.Runtime.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\EntityFramework.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\EntityFramework.SqlServer.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.DependencyCollector.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.Web.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.WindowsServer.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.ApplicationInsights.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.Web.Infrastructure.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Newtonsoft.Json.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.Helpers.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.Mvc.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.Optimization.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.Razor.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.Deployment.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.Razor.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\WebGrease.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\EntityFramework.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\EntityFramework.SqlServer.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.Helpers.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.Mvc.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.Optimization.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.Razor.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.Deployment.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\System.Web.WebPages.Razor.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Antlr3.Runtime.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Newtonsoft.Json.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.ApplicationInsights.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.DependencyCollector.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.WindowsServer.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\bin\Microsoft.AI.Web.xml
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\obj\Debug\AnimeList.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\obj\Debug\AnimeList.dll
+D:\SOFTWARE UNIVERSITY\Tech Module\ST - Exams\AnimeList\C# Solution\AnimeList\obj\Debug\AnimeList.pdb
