@@ -1,0 +1,29 @@
+@model ShoppingList.Models.Product
+
+@{
+    ViewBag.Title = "Add New Product";
+}
+
+<h1>Add New Product</h1>
+
+<section>
+        @using (Html.BeginForm("Create", "Product", FormMethod.Post))
+        {
+             @Html.AntiForgeryToken()
+    
+            <div>
+                <label for="priority">Priority</label>
+                <input type="text" id="priority" name="priority" value="@Model.Priority">
+                <div> @Html.ValidationMessageFor(m => m.Priority, null, new { @class = "danger" })</div>
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" value="@Model.Name">
+                <div> @Html.ValidationMessageFor(m => m.Name, null, new { @class = "danger" })</div>
+                <label for="quantity">Quantity</label>
+                <input type="text" id="quantity" name="quantity" value="@Model.Quantity">
+                <div> @Html.ValidationMessageFor(m => m.Quantity, null, new { @class = "danger" })</div>
+                <input type="hidden" id="status" name="status" value="not bought">
+                <button type="submit" class="accept">Create</button>
+                <button type="button" class="cancel" onclick="location.href='/';return false;">Cancel</button>
+            </div>
+        }
+</section>
