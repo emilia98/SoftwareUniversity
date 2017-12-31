@@ -1,4 +1,8 @@
 Exam preparations:
 - IMDB
 - To Do List
-- Kanban Board - Teister Mask
+- Kanban Board
+
+Exams:
+- Shopping List (Exam 2 Sept 2017)
+- Anime List (Exam 5 Sept 2017)
