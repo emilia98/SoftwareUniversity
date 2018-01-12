@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\05.HotPotato\bin\Debug\05.HotPotato.exe.config
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\05.HotPotato\bin\Debug\05.HotPotato.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\05.HotPotato\bin\Debug\05.HotPotato.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\05.HotPotato\obj\Debug\05.HotPotato.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\05.HotPotato\obj\Debug\05.HotPotato.pdb

@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\03.DecimalToBinary_2\bin\Debug\03.DecimalToBinary_2.exe.config
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\03.DecimalToBinary_2\bin\Debug\03.DecimalToBinary_2.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\03.DecimalToBinary_2\bin\Debug\03.DecimalToBinary_2.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\03.DecimalToBinary_2\obj\Debug\03.DecimalToBinary_2.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\03.DecimalToBinary_2\obj\Debug\03.DecimalToBinary_2.pdb

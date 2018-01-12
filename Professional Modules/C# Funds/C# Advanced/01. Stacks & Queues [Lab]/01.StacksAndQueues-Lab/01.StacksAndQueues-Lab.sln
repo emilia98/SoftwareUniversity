@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseStrings", "01.ReverseStrings\01.ReverseStrings.csproj", "{D7658A3B-3B41-4EEF-90FB-C59D3DBD7BA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SimpleCalculator", "02.SimpleCalculator\02.SimpleCalculator.csproj", "{65C4050B-FD2F-452B-9317-27AA2FEE405F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.HotPotato", "05.HotPotato\05.HotPotato.csproj", "{AC39AA5A-E50E-4829-898C-6A0ADE0BACE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MatchingBrackets", "04.MatchingBrackets\04.MatchingBrackets.csproj", "{F7B5FE15-B099-42D0-9ADD-77476178C062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MathPotato", "06.MathPotato\06.MathPotato.csproj", "{523EAA97-C3E4-45D0-A059-7BDC037AB53E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DecimalToBinary", "03.DecimalToBinary\03.DecimalToBinary.csproj", "{59238336-A100-4866-B9E2-8FD2EA4BFF24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DecimalToBinary_2", "03.DecimalToBinary_2\03.DecimalToBinary_2.csproj", "{555AF69B-1E3D-480A-8F61-17F1513C0664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7658A3B-3B41-4EEF-90FB-C59D3DBD7BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7658A3B-3B41-4EEF-90FB-C59D3DBD7BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7658A3B-3B41-4EEF-90FB-C59D3DBD7BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7658A3B-3B41-4EEF-90FB-C59D3DBD7BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C4050B-FD2F-452B-9317-27AA2FEE405F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C4050B-FD2F-452B-9317-27AA2FEE405F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C4050B-FD2F-452B-9317-27AA2FEE405F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C4050B-FD2F-452B-9317-27AA2FEE405F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC39AA5A-E50E-4829-898C-6A0ADE0BACE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC39AA5A-E50E-4829-898C-6A0ADE0BACE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC39AA5A-E50E-4829-898C-6A0ADE0BACE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC39AA5A-E50E-4829-898C-6A0ADE0BACE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B5FE15-B099-42D0-9ADD-77476178C062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B5FE15-B099-42D0-9ADD-77476178C062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B5FE15-B099-42D0-9ADD-77476178C062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B5FE15-B099-42D0-9ADD-77476178C062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523EAA97-C3E4-45D0-A059-7BDC037AB53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523EAA97-C3E4-45D0-A059-7BDC037AB53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523EAA97-C3E4-45D0-A059-7BDC037AB53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523EAA97-C3E4-45D0-A059-7BDC037AB53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59238336-A100-4866-B9E2-8FD2EA4BFF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59238336-A100-4866-B9E2-8FD2EA4BFF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59238336-A100-4866-B9E2-8FD2EA4BFF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59238336-A100-4866-B9E2-8FD2EA4BFF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555AF69B-1E3D-480A-8F61-17F1513C0664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555AF69B-1E3D-480A-8F61-17F1513C0664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555AF69B-1E3D-480A-8F61-17F1513C0664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555AF69B-1E3D-480A-8F61-17F1513C0664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

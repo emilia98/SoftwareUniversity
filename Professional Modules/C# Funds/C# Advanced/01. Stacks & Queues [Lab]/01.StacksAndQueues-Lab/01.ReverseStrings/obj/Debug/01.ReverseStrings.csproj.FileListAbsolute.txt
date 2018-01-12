@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\01.ReverseStrings\bin\Debug\01.ReverseStrings.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\01.ReverseStrings\bin\Debug\01.ReverseStrings.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\01.ReverseStrings\obj\Debug\01.ReverseStrings.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\01.ReverseStrings\obj\Debug\01.ReverseStrings.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\01.ReverseStrings\obj\Debug\01.ReverseStrings.pdb

@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\01. Stacks & Queues [Lab]\01.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.pdb
