@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\03.GroupNumbers_3\bin\Debug\03.GroupNumbers_3.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\03.GroupNumbers_3\bin\Debug\03.GroupNumbers_3.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\03.GroupNumbers_3\obj\Debug\03.GroupNumbers_3.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\03.GroupNumbers_3\obj\Debug\03.GroupNumbers_3.pdb

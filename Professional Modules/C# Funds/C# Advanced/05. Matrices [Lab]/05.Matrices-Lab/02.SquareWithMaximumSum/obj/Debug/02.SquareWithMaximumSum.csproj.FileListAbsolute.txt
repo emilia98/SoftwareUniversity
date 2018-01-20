@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\02.SquareWithMaximumSum\bin\Debug\02.SquareWithMaximumSum.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\02.SquareWithMaximumSum\bin\Debug\02.SquareWithMaximumSum.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\02.SquareWithMaximumSum\obj\Debug\02.SquareWithMaximumSum.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\02.SquareWithMaximumSum\obj\Debug\02.SquareWithMaximumSum.pdb

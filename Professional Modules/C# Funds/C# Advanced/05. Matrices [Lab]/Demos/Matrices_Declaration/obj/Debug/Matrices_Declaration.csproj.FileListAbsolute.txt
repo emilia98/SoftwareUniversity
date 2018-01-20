@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\Demos\Matrices_Declaration\bin\Debug\Matrices_Declaration.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\Demos\Matrices_Declaration\bin\Debug\Matrices_Declaration.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\Demos\Matrices_Declaration\obj\Debug\Matrices_Declaration.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\Demos\Matrices_Declaration\obj\Debug\Matrices_Declaration.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\Demos\Matrices_Declaration\obj\Debug\Matrices_Declaration.pdb

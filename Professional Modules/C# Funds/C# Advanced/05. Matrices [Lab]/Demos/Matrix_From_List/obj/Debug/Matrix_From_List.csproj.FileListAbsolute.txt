@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\Demos\Matrix_From_List\bin\Debug\Matrix_From_List.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\Demos\Matrix_From_List\bin\Debug\Matrix_From_List.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\Demos\Matrix_From_List\obj\Debug\Matrix_From_List.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\Demos\Matrix_From_List\obj\Debug\Matrix_From_List.pdb

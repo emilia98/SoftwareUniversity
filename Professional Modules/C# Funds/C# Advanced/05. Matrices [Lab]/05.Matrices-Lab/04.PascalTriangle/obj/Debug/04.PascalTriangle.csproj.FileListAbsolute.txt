@@ -1,0 +1,4 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\04.PascalTriangle\bin\Debug\04.PascalTriangle.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\04.PascalTriangle\bin\Debug\04.PascalTriangle.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\04.PascalTriangle\obj\Debug\04.PascalTriangle.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\04.PascalTriangle\obj\Debug\04.PascalTriangle.pdb

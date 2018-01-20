@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\03.GroupNumbers_2\bin\Debug\03.GroupNumbers_2.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\03.GroupNumbers_2\bin\Debug\03.GroupNumbers_2.pdb
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\03.GroupNumbers_2\obj\Debug\03.GroupNumbers_2.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\03.GroupNumbers_2\obj\Debug\03.GroupNumbers_2.exe
+D:\SOFTWARE UNIVERSITY\Professional Modules\C# Funds\C# Advanced\Exercises\05. Matrices [Lab]\05.Matrices-Lab\03.GroupNumbers_2\obj\Debug\03.GroupNumbers_2.pdb
