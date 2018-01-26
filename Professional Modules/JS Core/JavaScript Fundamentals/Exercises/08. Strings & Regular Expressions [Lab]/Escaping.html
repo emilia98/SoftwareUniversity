@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Escaping</title>
+</head>
+<body>
+<div><label for="userInput">Paste test input here:</label></div>
+<div>
+    <textarea rows="12" cols="40" id="userInput"></textarea>
+    <input type="button" value="Escape"
+           onclick="document.getElementById('result').innerHTML = htmlEscape(JSON.parse(document.getElementById('userInput').value.replace(/'/g, String.fromCharCode(34))));"/>
+</div>
+<div><label for="result">Results will show up here:</label></div>
+<div id="result"></div>
+<script>
+    function htmlEscape(input) {
+        let result = "<ul>";
+        let lessThanPattern = new RegExp("(\\<)","g");
+        let greaterThanPattern = new RegExp("(\\>)","g");
+        let ampersandPattern = new RegExp("(\\&)","g");
+        let doubleQuotePattern = new RegExp("(\\\")","g");
+
+        for (let item of input) {
+
+            let lessThanMatches = item.match(lessThanPattern);
+            let greaterThanMatches = item.match(greaterThanPattern);
+            let ampersandMatches = item.match(ampersandPattern);
+            let doubleQuoteMatches = item.match(doubleQuotePattern);
+
+            if(ampersandMatches != null){
+                for (let match of ampersandMatches) {
+                    item = item.replace(match, "&amp;");
+                }
+            }
+
+            if(lessThanMatches != null){
+                for (let match of lessThanMatches) {
+                    item = item.replace(match, "&lt;");
+                }
+            }
+
+            if(greaterThanMatches != null){
+                for (let match of greaterThanMatches) {
+                    item = item.replace(match, "&gt;");
+                }
+            }
+
+
+            if(doubleQuoteMatches != null){
+                for (let match of doubleQuoteMatches) {
+                    item = item.replace(match, "&quot;");
+                }
+
+            }
+
+            result += `  <li>${item}</li>`;
+        }
+
+        result += "</ul>";
+        console.log(result);
+        return result;
+
+        /*
+        function matchAllOccurrences(matches, str, strToUse) {
+            for (let match of matches) {
+                str = str.replace(match, strToUse);
+            }
+            return str;
+        }*/
+    }
+</script>
+</body>
+</html>
