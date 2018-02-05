@@ -1,0 +1,5 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\05.MatchNumbers\bin\Debug\05.MatchNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\05.MatchNumbers\bin\Debug\05.MatchNumbers.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\05.MatchNumbers\obj\Debug\05.MatchNumbers.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\05.MatchNumbers\obj\Debug\05.MatchNumbers.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\05.MatchNumbers\obj\Debug\05.MatchNumbers.pdb

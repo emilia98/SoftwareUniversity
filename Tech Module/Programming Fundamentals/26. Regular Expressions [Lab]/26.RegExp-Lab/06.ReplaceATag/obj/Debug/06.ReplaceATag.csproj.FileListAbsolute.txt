@@ -1,0 +1,1 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\06.ReplaceATag\bin\Debug\06.ReplaceATag.exe.config

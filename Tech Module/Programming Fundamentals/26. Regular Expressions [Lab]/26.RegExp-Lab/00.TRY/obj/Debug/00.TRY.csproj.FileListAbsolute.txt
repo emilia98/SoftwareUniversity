@@ -1,0 +1,6 @@
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\00.TRY\bin\Debug\00.TRY.exe.config
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\00.TRY\bin\Debug\00.TRY.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\00.TRY\bin\Debug\00.TRY.pdb
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\00.TRY\obj\Debug\00.TRY.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\00.TRY\obj\Debug\00.TRY.exe
+D:\SOFTWARE UNIVERSITY\Tech Module\Programming Fundamentals\26. Regular Expressions [Lab]\26.RegExp-Lab\00.TRY\obj\Debug\00.TRY.pdb
