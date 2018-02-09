@@ -1,0 +1,17 @@
+div.my-list{
+    margin: 0 auto;
+    width: 500px;
+    background-color: #F7F381;
+    padding: 8px 24px;
+    font-size: 30px;
+    border: 1px solid #F7F381;
+    border-shadow: 0 0 10 2px #F7F381;
+}
+
+ol{
+    margin: 12px;
+}
+
+p{
+    text-align: center;
+}
