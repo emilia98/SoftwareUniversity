@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Collect List</title>
+</head>
+<body>
+<ul id="items">
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+</ul>
+<textarea id="result"></textarea>
+<br>
+<button onclick="extractText()">Extract Text</button>
+<script>
+    function extractText() {
+        let ul = document.getElementById("items");
+
+        /* CORRECT in browser, Does NOT work in Judge
+        let items = [...ul.children];
+        for(let item of items){
+            extracted.push(item.textContent);
+        }
+         */
+        let extracted = [];
+        let items = ul.children;
+        for(let index = 0; index < items.length; index++){
+            extracted.push(items[index].textContent);
+        }
+        let result = document.getElementById("result");
+        result.value = extracted.join("\n");
+    }
+</script>
+</body>
+</html>
