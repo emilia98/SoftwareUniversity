@@ -1,6 +1,6 @@
 # JavaScript Fundamentals Exams
 
-<div style="text-align: right">Last Updated: <b>15/03/2018</b></div>
+<p align = "right">Last Updated: <b>15/03/2018</b></p>
 
 | Exam | Problem 1 | Problem 2 | Problem 3   | Problem 4 |
 |-------------------|-------------|-------------|-------------|-------------|
