@@ -8,8 +8,8 @@
 |``same exam``| Build a table 2|| Extract Hyperlinks 2| Concerts 2|
 |JavaScript Basics - 28 July 2014| Double Rakiya Numbers | String Matrix Rotation| Sort Table| Soccer Results|
 |``same exam``||| Sort Table 2| Soccer Results 2|
-|JavaScript Basics - 29 July 2014| Prices Trends | Tetris Figures| Biggest Table Row| Students, Courses, Grades, Visits|
-|``same exam``|Prices Trends 2|Tetris Figures 2| Biggest Table Row 2| Students, Courses, Grades, Visits 2|
+|JavaScript Basics - 29 July 2014| [Prices Trends](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2029%20July%202014/01.PricesTrends.js) | [Tetris Figures](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2029%20July%202014/02.TetrisFigures.js)| [Biggest Table Row](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2029%20July%202014/03.BiggestTableRow.js)| [Students, Courses, Grades, Visits](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2029%20July%202014/04.StudentsCoursesGradesVisits.js)|
+|``same exam``|[Prices Trends 2](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2029%20July%202014/01.PricesTrends_2.js)|[Tetris Figures 2](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2029%20July%202014/02.TetrisFigures_2.js)| [Biggest Table Row 2](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2029%20July%202014/03.BiggestTableRow_2.js)| [Students, Courses, Grades, Visits 2](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2029%20July%202014/04.StudentsCoursesGradesVisits_2.js)|
 |JavaScript Basics Exam - 4 September 2014| Keep The Change | The Numbers| To The Stars!| Cloud Manager|
 |``same exam``| - | - | - | - |
 |JavaScript Basics Exam - 22 November 2014| Daggers and Swords | X-Removal| Query Mess| Vladko's Notebook|
@@ -22,4 +22,9 @@
 |``same exam``| - | - | - | - |
 |JavaScript Basics Exam - 13 May 2015| Kitodar The Miner | The Captain Obvious Tribulation| Magic Grid| Student Protocol|
 |``same exam``| - | - | - | - |
+
+
+
+
+
 
