@@ -1,5 +1,7 @@
 ﻿# Module Formats (Syntax) and Module Loaders (Execution)
 
+<p align = "right">Last Updated: <b>24/03/2018</b></p>
+
 ## Module Formats  
 
 ### Overview
@@ -158,7 +160,7 @@ npm install --save-dev babel-cli -g
 
 - Settings to the file watcher
 	- Program:	(path to) node_modules\.bin\babel.cmd (Often:  **C:\Users\{username}\AppData\Roaming\npm\babel.cmd**)
-	- Arguments:	``$FilePathRelativeToProjectRoot$ --source-maps --out-dir build**``
+	- Arguments:	``$FilePathRelativeToProjectRoot$ --source-maps --out-dir build``
 	- Working dir:	 ``$ProjectFileDir$``
 	- Output paths:	**build**
 
