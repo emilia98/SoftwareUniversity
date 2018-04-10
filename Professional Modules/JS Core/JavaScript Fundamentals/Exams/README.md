@@ -1,6 +1,6 @@
 # JavaScript Fundamentals Exams
 
-<p align = "right">Last Updated: <b>03/04/2018</b></p>
+<p align = "right">Last Updated: <b>10/04/2018</b></p>
 
 | Exam | Problem 1 | Problem 2 | Problem 3   | Problem 4 |
 |-------------------|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -22,6 +22,21 @@
 |``same exam``| - | - | - | - |
 |JavaScript Basics Exam - 13 May 2015| [Kitodar The Miner](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2013%20May%202015/01.KitodarTheMiner/KitodarTheMiner.js) | [The Captain Obvious Tribulation](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2013%20May%202015/02.TheCaptainObviousTribulation/TheCaptainObviousTribulation.js)| [Magic Grid](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2013%20May%202015/03.MagicGrid/MagicGrid.js)| [Student Protocol](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2013%20May%202015/04.StudentProtocol/StudentProtocol.js)|
 |``same exam``| [Kitodar The Miner 2](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2013%20May%202015/01.KitodarTheMiner/KitodarTheMiner_2.js) | [The Captain Obvious Tribulation 2](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2013%20May%202015/02.TheCaptainObviousTribulation/TheCaptainObviousTribulation_2.js) | - | [Student Protocol 2](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%2013%20May%202015/04.StudentProtocol/StudentProtocol_2.js)|
+|JavaScript Basics Exam - 31 Jan 2016| [Exam Results] | [Filter Matrix]| [SoftUni Forum]| [Minka The JavaScript Goddess]|
+|``same exam``| - | - | - | -|
+JavaScript Basics Exam - 11 May 2016 (Retake)| [Medenka Wars] | [Bunny Kill]| [AJAX Request Validator]| [Angular Parser]|
+|``same exam``| - | - | - | - |
+JavaScript Fundamentals Exam - 16 Oct 2016| [Arithmephile] | [Rosetta Stone]| [Spy Master]| [Radical Marketing]|
+|``same exam``| - | - | - | - |
+JavaScript Fundamentals Exam - 16 Dec 2016| [Spice Must Flow] | [Build A Wall]| [Format Helper]| [Airport]|
+|``same exam``| -| - | - | - |
+JavaScript Fundamentals Exam - 18 Jun 2017| [The Pyramid of King Djoser] | [Jan's Notations]| [XML Messenger]| [Galactic Elections]|
+|``same exam``| - | - | - | - |
+JavaScript Fundamentals Exam - 3 Sep 2017| [The Hungry Programmer] | [Expedition]| [Lost]| [Rest House]|
+|``same exam``| - | - | - | - |
+JavaScript Fundamentals Exam - 11 Feb 2018| [Bitcoin Mining] | [Air Pollution]| [Survey Parser]| [Game of Epicness]|
+|``same exam``| - | - | - | - |
+
 
 
 
