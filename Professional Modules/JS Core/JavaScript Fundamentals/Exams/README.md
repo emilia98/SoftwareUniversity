@@ -1,6 +1,6 @@
 # JavaScript Fundamentals Exams
 
-<p align = "right">Last Updated: <b>11/04/2018</b></p>
+<p align = "right">Last Updated: <b>20/04/2018</b></p>
 
 | Exam | Problem 1 | Problem 2 | Problem 3   | Problem 4 |
 |-------------------|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -16,7 +16,7 @@
 |``same exam``| - | - | - | - |
 |JavaScript Basics Exam - 24 November 2014| Ewoks Fans | Plus Remove| Link Strings| User Module|
 |``same exam``| - | - | - | - |
-|JavaScript Basics Exam - 9 January 2015| The Teteven Trip | Parachute | Use Your Chains Buddy | All That Luggage|
+|JavaScript Basics Exam - 9 January 2015| [The Teteven Trip](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%209%20Jan%202015/01.TheTetevenTrip/TheTetevenTrip.js) | [Parachute](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%209%20Jan%202015/02.Parachute/Parachute.js) | [Use Your Chains Buddy](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%209%20Jan%202015/03.UseYourChainsBuddy/UseYourChainsBuddy.js) | [All That Luggage](https://github.com/emilia98/SoftwareUniversity/blob/master/Professional%20Modules/JS%20Core/JavaScript%20Fundamentals/Exams/JavaScript%20Basics%20Exam%20-%209%20Jan%202015/04.AllThatLuggage/AllThatLuggage.js)|
 |``same exam``| - | - | - | - |
 |JavaScript Basics Exam - 5 April 2015| Uncle Scrooge's Bag| Flea Racing| Goshko the rabbit| Rolland Garros|
 |``same exam``| - | - | - | - |
